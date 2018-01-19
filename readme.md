@@ -5,13 +5,13 @@
 
 ## Table of Content
 
-*   [CSS](#css)
-*   [JavaScript](#javascript)
-*   [Vue](#vue)
-*   [Others](#others)
+-  [CSS](#css)
+-  [JavaScript](#javascript)
+-  [Vue](#vue)
+-  [Others](#others)
 
 
 ## CSS
-    * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## JavaScript
