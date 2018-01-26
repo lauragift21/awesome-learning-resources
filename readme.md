@@ -26,6 +26,7 @@
 ## Vue
 * [egghead.io](https://egghead.io/browse/frameworks/vue)
 * [Front End Masters](https://frontendmasters.com/courses/vue/)
+* [Routing and Route Protection in Server-Rendered Vue Apps Using Nuxt.js](https://css-tricks.com/routing-route-protection-server-rendered-vue-apps-using-nuxt-js/#comment-1615086)
 
 
 ## Serverless
