@@ -30,7 +30,7 @@
 * [Routing and Route Protection in Server-Rendered Vue Apps Using Nuxt.js](https://css-tricks.com/routing-route-protection-server-rendered-vue-apps-using-nuxt-js/#comment-1615086)
 * [Guide to Learning Vue](https://css-tricks.com/guides/vue/)
 * [MadewithVuejs](https://madewithvuejs.com/)
-
+* [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
 
 ## Serverless
