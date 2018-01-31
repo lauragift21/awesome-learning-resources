@@ -45,3 +45,4 @@
 * [Super Cool Illustrations](https://undraw.co/illustrations)
 * [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 * [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
+* [Alistapart](http://alistapart.com)
