@@ -9,6 +9,7 @@
 -  [JavaScript](#javascript)
 -  [Vue](#vue)
 -  [Serverless](#serverless)
+-  [Developer Stories](#developer stories)
 -  [Others](#others)
 
 
@@ -16,6 +17,7 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
 * [W3Schools](https://www.w3schools.com/)
+* []()
 
 
 ## JavaScript
@@ -45,4 +47,8 @@
 * [Super Cool Illustrations](https://undraw.co/illustrations)
 * [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 * [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
+
+## Others
 * [Alistapart](http://alistapart.com)
+* [Zell's Blog](https://zellwk.com/blog)
+* [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
