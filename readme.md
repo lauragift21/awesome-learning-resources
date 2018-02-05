@@ -54,3 +54,4 @@
 * [Alistapart](http://alistapart.com)
 * [Zell's Blog](https://zellwk.com/blog)
 * [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
+* [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
