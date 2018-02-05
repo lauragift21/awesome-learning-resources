@@ -56,3 +56,5 @@
 * [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
 * [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
 * [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
+* [Google Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
+* [Github Styleguide](https://primer.github.io/)
