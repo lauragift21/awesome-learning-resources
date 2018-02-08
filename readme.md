@@ -61,3 +61,4 @@
 * [Google Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
 * [Github Styleguide](https://primer.github.io/)
 * [Want To Become A Multi-Millionaire? Do These 15 Things Immediately.](https://journal.thriveglobal.com/want-to-become-a-multi-millionaire-do-these-15-things-immediately-e1e779a6978f?inf_contact_key=9c2f4a1eb788da91821800290cd23e49be1b7aeb634626a9fe8293d8a0fdb204)
+* [Interruption is Not Collaboration](https://m.signalvnoise.com/interruption-is-not-collaboration-8dfb20731569)
