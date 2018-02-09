@@ -19,6 +19,7 @@
 * [W3Schools](https://www.w3schools.com/)
 * [CSS Tricks](https://css-tricks.com)
 * [10 great CSS animation resources](https://www.creativebloq.com/advice/5-great-css-animation-resources)
+* [Chen's Blog](https://www.chenhuijing.com/)
 
 
 ## JavaScript
