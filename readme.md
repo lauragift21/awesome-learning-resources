@@ -39,6 +39,7 @@
 
 ## PWA
 * [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
+* [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
 
 ## Serverless
 * [Serverless](https://serverless.com/)
