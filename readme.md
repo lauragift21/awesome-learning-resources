@@ -27,7 +27,7 @@
 * [CodeSchool](https://www.codeschool.com/learn/javascript)
 * [Egghead](https://egghead.io)
 * [Ally.io](https://allyjs.io/)
-
+* [How to code in JavaScript Digital Ocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 
 ## Vue
 * [egghead.io](https://egghead.io/browse/frameworks/vue)
