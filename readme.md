@@ -1,6 +1,7 @@
 # Awesome Resources Roadmap
 
-![alt text](https://img.shields.io/badge/lauragift21-approved-brightgreen.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[!Lauragift](https://img.shields.io/badge/lauragift21-approved-brightgreen.svg)
 
 ## Table of Content
 
