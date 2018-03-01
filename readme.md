@@ -81,3 +81,4 @@
 - [Assortment.io](https://assortment.io/)
 - [Creativebloq](https://www.creativebloq.com/)
 - [Emoji Cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [David Walsh](https://davidwalsh.name)
