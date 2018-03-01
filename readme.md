@@ -21,6 +21,7 @@
 - [10 great CSS animation resources](https://www.creativebloq.com/advice/5-great-css-animation-resources)
 - [Chen's Blog](https://www.chenhuijing.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
+- [30 Sec of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 ## JavaScript
 
