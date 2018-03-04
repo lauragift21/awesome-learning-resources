@@ -57,6 +57,7 @@
 
 - [CodeNewbie](https://www.codenewbie.org/podcast)
 - [Syntax](https://syntax.fm/)
+- [Software Engineering Daily](https://dev.to/sedaily)
 
 ## Developer Stories
 
