@@ -84,3 +84,6 @@
 - [Creativebloq](https://www.creativebloq.com/)
 - [Emoji Cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [David Walsh](https://davidwalsh.name)
+- [UiGradient](https://uigradients.com)
+- [FlatUIColor Picker](http://www.flatuicolorpicker.com/)
+- [The Stocks](http://thestocks.im/)
