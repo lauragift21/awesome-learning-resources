@@ -86,4 +86,4 @@
 - [David Walsh](https://davidwalsh.name)
 - [UiGradient](https://uigradients.com)
 - [FlatUIColor Picker](http://www.flatuicolorpicker.com/)
-
+- [The Stocks](http://thestocks.im/)
