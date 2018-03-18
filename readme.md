@@ -41,6 +41,7 @@
 - [Guide to Learning Vue](https://css-tricks.com/guides/vue/)
 - [MadewithVuejs](https://madewithvuejs.com/)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
+- [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 
 ## PWA
 
