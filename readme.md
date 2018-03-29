@@ -23,7 +23,6 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [30 Sec of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
-
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
