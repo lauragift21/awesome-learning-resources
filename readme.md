@@ -23,6 +23,7 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [30 Sec of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
+
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
@@ -43,6 +44,7 @@
 - [MadewithVuejs](https://madewithvuejs.com/)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
+- [Vuejs Cookbook](https://vuejs.org/v2/cookbook/)
 
 ## PWA
 
@@ -89,3 +91,5 @@
 - [UiGradient](https://uigradients.com)
 - [FlatUIColor Picker](http://www.flatuicolorpicker.com/)
 - [The Stocks](http://thestocks.im/)
+- [bitsofcode](https://bitsofco.de)
+- [catlin.red](https://catalin.red/)
