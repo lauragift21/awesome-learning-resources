@@ -35,6 +35,7 @@
 - [Codeburst.io](https://codeburst.io/)
 - [Hackernoon](https://hackernoon.com/)
 - [YDKJS](https://github.com/getify/You-Dont-Know-JS)
+- [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 
 ## Vue
 
