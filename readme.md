@@ -65,6 +65,7 @@
 - [Syntax](https://syntax.fm/)
 - [Software Engineering Daily](https://dev.to/sedaily)
 - [The Freecodecamp Podcast](https://freecodecamp.libsyn.com/)
+- [Indie Hackers](indiehackers.com/podcast)
 
 ## Developer Stories
 
