@@ -36,6 +36,7 @@
 - [Hackernoon](https://hackernoon.com/)
 - [YDKJS](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
+- [Scotch.io](https://scotch.io)
 
 ## Vue
 
