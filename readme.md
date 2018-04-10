@@ -98,3 +98,4 @@
 - [bitsofcode](https://bitsofco.de)
 - [catlin.red](https://catalin.red/)
 - [giftegwuenu](https://giftegwuenu.com)
+- [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
