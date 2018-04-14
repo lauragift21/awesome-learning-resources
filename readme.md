@@ -79,6 +79,7 @@
 
 
 ## Sick Picks
+
 - [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
 - [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
 - [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
@@ -94,9 +95,7 @@
 - [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
 - [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
 
-
-
-## Developer Blogs
+## Developer Blog
 
 - [Alistapart](http://alistapart.com)
 - [Zell's Blog](https://zellwk.com/blog)
