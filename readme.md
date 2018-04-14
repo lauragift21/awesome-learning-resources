@@ -53,11 +53,13 @@
 
 - [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
 - [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
+- [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 
 ## Serverless
 
 - [Serverless](https://serverless.com/)
 - [The Power of Serverless](http://thepowerofserverless.info/resources.html)
+- [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 
 ## Podcasts
@@ -74,29 +76,34 @@
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 - [Super Cool Illustrations](https://undraw.co/illustrations)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
-- [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
 
-## Others
 
-- [Alistapart](http://alistapart.com)
-- [Zell's Blog](https://zellwk.com/blog)
+## Sick Picks
 - [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
+- [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
 - [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
 - [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
 - [Google Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Github Styleguide](https://primer.github.io/)
 - [Want To Become A Multi-Millionaire? Do These 15 Things Immediately.](https://journal.thriveglobal.com/want-to-become-a-multi-millionaire-do-these-15-things-immediately-e1e779a6978f?inf_contact_key=9c2f4a1eb788da91821800290cd23e49be1b7aeb634626a9fe8293d8a0fdb204)
 - [Interruption is Not Collaboration](https://m.signalvnoise.com/interruption-is-not-collaboration-8dfb20731569)
-- [Mark Dotto Blog](http://markdotto.com)
-- [Assortment.io](https://assortment.io/)
-- [Creativebloq](https://www.creativebloq.com/)
 - [Emoji Cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-- [David Walsh](https://davidwalsh.name)
 - [UiGradient](https://uigradients.com)
 - [FlatUIColor Picker](http://www.flatuicolorpicker.com/)
 - [The Stocks](http://thestocks.im/)
+- [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
+- [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
+
+
+
+## Developer Blogs
+
+- [Alistapart](http://alistapart.com)
+- [Zell's Blog](https://zellwk.com/blog)
+- [Mark Dotto Blog](http://markdotto.com)
+- [Assortment.io](https://assortment.io/)
+- [Creativebloq](https://www.creativebloq.com/)
+- [David Walsh](https://davidwalsh.name)
 - [bitsofcode](https://bitsofco.de)
 - [catlin.red](https://catalin.red/)
 - [giftegwuenu](https://giftegwuenu.com)
-- [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
-- [Everything about Static](https://www.thenewdynamic.org/articles/)
