@@ -60,7 +60,6 @@
 - [Serverless](https://serverless.com/)
 - [The Power of Serverless](http://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
-- [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 
 ## Podcasts
 
