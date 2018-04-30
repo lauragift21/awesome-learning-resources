@@ -94,6 +94,8 @@
 - [The Stocks](http://thestocks.im/)
 - [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
 - [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
+- [Array Explorer](https://sdras.github.io/array-explorer/)
+- [Object Explorer](https://sdras.github.io/object-explorer/)
 
 ## Developer Blog
 
