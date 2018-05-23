@@ -24,7 +24,6 @@
 - [30 Sec of CSS](https://atomiks.github.io/30-seconds-of-css/)
 - [CSS Reference](https://cssreference.io/)
 
-
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
@@ -76,7 +75,6 @@
 - [Super Cool Illustrations](https://undraw.co/illustrations)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 
-
 ## Sick Picks
 
 - [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
@@ -107,3 +105,4 @@
 - [bitsofcode](https://bitsofco.de)
 - [catlin.red](https://catalin.red/)
 - [giftegwuenu](https://giftegwuenu.com)
+- [Raymond Camden](https://raymondcamden.com)
