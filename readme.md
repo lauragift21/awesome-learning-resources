@@ -95,6 +95,7 @@
 - [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
 - [Array Explorer](https://sdras.github.io/array-explorer/)
 - [Object Explorer](https://sdras.github.io/object-explorer/)
+- [Create VSCode Theme Extension](https://css-tricks.com/creating-a-vs-code-theme/)
 
 ## Developer Blog
 
