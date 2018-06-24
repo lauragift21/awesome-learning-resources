@@ -37,6 +37,7 @@
 - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 - [Scotch.io](https://scotch.io)
 - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
+- [Setup Continuous Integration with Travis CI in Your Nodejs App](https://www.giftegwuenu.com/setup-continuous-integration-with-travis-ci-in-your-nodejs-app/)
 
 ## Vue
 
