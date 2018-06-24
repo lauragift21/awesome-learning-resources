@@ -97,6 +97,7 @@
 - [Array Explorer](https://sdras.github.io/array-explorer/)
 - [Object Explorer](https://sdras.github.io/object-explorer/)
 - [Create VSCode Theme Extension](https://css-tricks.com/creating-a-vs-code-theme/)
+- [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 
 ## Developer Blog
 
