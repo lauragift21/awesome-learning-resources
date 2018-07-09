@@ -55,12 +55,14 @@
 - [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
 - [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
 - [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+- [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
 
 ## Serverless
 
 - [Serverless](https://serverless.com/)
 - [The Power of Serverless](http://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
+
 
 ## Podcasts
 
@@ -75,13 +77,13 @@
 
 - [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
-- [Super Cool Illustrations](https://undraw.co/illustrations)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 
 ## Sick Picks
 
 - [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
 - [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
+- [Super Cool Illustrations](https://undraw.co/illustrations)
 - [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
 - [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
 - [Google Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
