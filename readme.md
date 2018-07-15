@@ -102,6 +102,7 @@
 - [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 - [Andela Learning Digest](https://learning-digest.andela.com/)
 - [DevTube](https://dev.tube/)
+- [Make Front-End Shit Again](https://makefrontendshitagain.party/)
 
 ## Developer Blog
 
