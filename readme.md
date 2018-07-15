@@ -100,6 +100,8 @@
 - [Object Explorer](https://sdras.github.io/object-explorer/)
 - [Create VSCode Theme Extension](https://css-tricks.com/creating-a-vs-code-theme/)
 - [30 Seconds of Interviews](https://30secondsofinterviews.org/)
+- [Andela Learning Digest](https://learning-digest.andela.com/)
+- [DevTube](https://dev.tube/)
 
 ## Developer Blog
 
