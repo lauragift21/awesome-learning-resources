@@ -52,6 +52,16 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 
+## Typescript
+
+ - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
+ - [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
+ - [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages)
+ - [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
+ - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
+ - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
+ - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
+
 ## Vue
 
 - [Egghead.io](https://egghead.io/browse/frameworks/vue)
