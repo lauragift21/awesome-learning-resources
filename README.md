@@ -39,6 +39,16 @@
 - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 - [Setup Continuous Integration with Travis CI in Your Nodejs App](https://www.giftegwuenu.com/setup-continuous-integration-with-travis-ci-in-your-nodejs-app/)
 
+## Typescript
+
+ - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
+ - [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
+ - [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages)
+ - [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
+ - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
+ - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
+ - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
+
 ## Vue
 
 - [Egghead.io](https://egghead.io/browse/frameworks/vue)
