@@ -18,6 +18,7 @@
     - [ReactJS](#reactjs)
     - [NodeJS](#nodejs)
     - [Markdown](#markdown)
+    - [Typescript](#typescript)
 
 ## CSS
 
@@ -152,7 +153,27 @@
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
 - [Alligator.IO Node Page](https://alligator.io/nodejs/)
-
+- [The Art of Node](https://github.com/maxogden/art-of-node)
+- [You don't know Node.js](https://github.com/azat-co/you-dont-know-node)
+- [The Node Way](http://thenodeway.io/)
+- [Teach Yourself Node.js In Ten Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
+- [Learn the Node.js Runtime Itself](https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
+- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines)
+- [Offline Installation of npm Packages](https://addyosmani.com/blog/using-npm-offline/)
+- [Using npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+- [How to Get Node.js Logging Right](https://blog.risingstack.com/node-js-logging-tutorial/)
+- [Node.js Testing with Jest](https://github.com/facebook/jest)
+- [Node.js Testing with Mocha](http://mochajs.org/)
+- [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
+- [Error Handling Best Practices in Node.js](https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+- [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
+- [13 Best Practices for Node.js Security](https://nodewebapps.com/2017/01/03/13-security-best-practices-for-your-web-application/)
+- [Node.js Production Checklist](https://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
+- [Debugging Node.js Apps in Production](https://blog.risingstack.com/node-js-war-stories-solving-issues-in-production-2/)
+- [Node.js Performance Tips](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
+-[Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/)
+- [Advanced Node.js(videos)](https://onedrive.live.com/?authkey=%21ANbPcuk7XxY1hPY&id=9F66D67EBC33737F%2133343&cid=9F66D67EBC33737F)
+- [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 ## Markdown
 
 - [Mastering Markdown](https://masteringmarkdown.com/)
