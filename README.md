@@ -18,6 +18,7 @@
     - [ReactJS](#reactjs)
     - [NodeJS](#nodejs)
     - [Markdown](#markdown)
+    - [Typescript](#typescript)
 
 ## CSS
 
