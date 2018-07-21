@@ -4,21 +4,19 @@
 
 ## Table of Content
 
-- [Awesome Resources RoadMap](#awesome-resources-roadmap)
-    - [Table of Content](#table-of-content)
-    - [CSS](#css)
-    - [JavaScript](#javascript)
-    - [Vue](#vue)
-    - [PWA](#pwa)
-    - [Serverless](#serverless)
-    - [Podcasts](#podcasts)
-    - [Developer Stories](#developer-stories)
-    - [Sick Picks](#sick-picks)
-    - [Developer Blog](#developer-blog)
-    - [ReactJS](#reactjs)
-    - [NodeJS](#nodejs)
-    - [Markdown](#markdown)
-    - [Typescript](#typescript)
+- [CSS](#css)
+- [Developer Blog](#developer-blog)
+- [Developer Stories](#developer-stories)
+- [JavaScript](#javascript)
+- [Markdown](#markdown)
+- [NodeJS](#nodejs)
+- [Podcasts](#podcasts)
+- [PWA](#pwa)
+- [ReactJS](#reactjs)
+- [Serverless](#serverless)
+- [Sick Picks](#sick-picks)
+- [Vue](#vue)
+- [Typescript](#typescript)
 
 ## CSS
 
@@ -143,6 +141,7 @@
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
 - [Ayo Isaiah](https://freshman.tech/)
+- [Harry Cresswell](https://harrycresswell.com/articles/)
 
 ## ReactJS
 
