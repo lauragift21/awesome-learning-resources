@@ -94,6 +94,7 @@
 - [The Freecodecamp Podcast](https://freecodecamp.libsyn.com/)
 - [Indie Hackers](indiehackers.com/podcast)
 - [Rework](https://rework.fm/)
+- [Darknet Diaries](https://darknetdiaries.com)
 
 ## Developer Stories
 
