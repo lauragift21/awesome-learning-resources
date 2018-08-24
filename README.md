@@ -95,6 +95,7 @@
 - [Indie Hackers](indiehackers.com/podcast)
 - [Rework](https://rework.fm/)
 - [Darknet Diaries](https://darknetdiaries.com)
+- [ForLoop Pod](https://podcast.forloop.africa/)
 
 ## Developer Stories
 
