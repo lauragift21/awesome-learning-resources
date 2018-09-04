@@ -33,6 +33,29 @@
 - [CSS Flexbox by Wes Bos](https://flexbox.io/)
 - [Alligator.IO CSS Page](https://alligator.io/css)
 
+## Developer Blog
+
+- [Alistapart](http://alistapart.com)
+- [Zell's Blog](https://zellwk.com/blog)
+- [Mark Dotto Blog](http://markdotto.com)
+- [Assortment.io](https://assortment.io/)
+- [Creativebloq](https://www.creativebloq.com/)
+- [David Walsh](https://davidwalsh.name)
+- [bitsofcode](https://bitsofco.de)
+- [catlin.red](https://catalin.red/)
+- [giftegwuenu](https://giftegwuenu.com)
+- [Raymond Camden](https://raymondcamden.com)
+- [Tania Rascia](https://www.taniarascia.com/)
+- [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
+- [Ayo Isaiah](https://freshman.tech/)
+- [Harry Cresswell](https://harrycresswell.com/articles/)
+
+## Developer Stories
+
+- [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
+- [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
+- [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
+
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
@@ -51,105 +74,9 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 
-## Typescript
+## Markdown
 
- - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
- - [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
- - [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages)
- - [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
- - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
- - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
- - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
-
-## Vue
-
-- [Egghead.io](https://egghead.io/browse/frameworks/vue)
-- [Front End Masters](https://frontendmasters.com/courses/vue/)
-- [Routing and Route Protection in Server-Rendered Vue Apps Using Nuxt.js](https://css-tricks.com/routing-route-protection-server-rendered-vue-apps-using-nuxt-js/#comment-1615086)
-- [Guide to Learning Vue](https://css-tricks.com/guides/vue/)
-- [MadewithVuejs](https://madewithvuejs.com/)
-- [Awesome Vue](https://github.com/vuejs/awesome-vue)
-- [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
-- [Vuejs Cookbook](https://vuejs.org/v2/cookbook/)
-
-## PWA
-
-- [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
-- [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
-- [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
-- [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
-
-## Serverless
-
-- [Serverless](https://serverless.com/)
-- [The Power of Serverless](http://thepowerofserverless.info/resources.html)
-- [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
-
-
-## Podcasts
-
-- [CodeNewbie](https://www.codenewbie.org/podcast)
-- [Syntax](https://syntax.fm/)
-- [Software Engineering Daily](https://dev.to/sedaily)
-- [The Freecodecamp Podcast](https://freecodecamp.libsyn.com/)
-- [Indie Hackers](indiehackers.com/podcast)
-- [Rework](https://rework.fm/)
-- [Darknet Diaries](https://darknetdiaries.com)
-- [ForLoop Pod](https://podcast.forloop.africa/)
-
-## Developer Stories
-
-- [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
-- [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
-- [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
-
-## Sick Picks
-
-- [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
-- [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
-- [Super Cool Illustrations](https://undraw.co/illustrations)
-- [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
-- [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
-- [Google Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
-- [Github Styleguide](https://primer.github.io/)
-- [Want To Become A Multi-Millionaire? Do These 15 Things Immediately.](https://journal.thriveglobal.com/want-to-become-a-multi-millionaire-do-these-15-things-immediately-e1e779a6978f?inf_contact_key=9c2f4a1eb788da91821800290cd23e49be1b7aeb634626a9fe8293d8a0fdb204)
-- [Interruption is Not Collaboration](https://m.signalvnoise.com/interruption-is-not-collaboration-8dfb20731569)
-- [Emoji Cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-- [UiGradient](https://uigradients.com)
-- [FlatUIColor Picker](http://www.flatuicolorpicker.com/)
-- [The Stocks](http://thestocks.im/)
-- [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
-- [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
-- [Array Explorer](https://sdras.github.io/array-explorer/)
-- [Object Explorer](https://sdras.github.io/object-explorer/)
-- [Create VSCode Theme Extension](https://css-tricks.com/creating-a-vs-code-theme/)
-- [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-- [Andela Learning Digest](https://learning-digest.andela.com/)
-- [DevTube](https://dev.tube/)
-- [Make Front-End Shit Again](https://makefrontendshitagain.party/)
-
-## Developer Blog
-
-- [Alistapart](http://alistapart.com)
-- [Zell's Blog](https://zellwk.com/blog)
-- [Mark Dotto Blog](http://markdotto.com)
-- [Assortment.io](https://assortment.io/)
-- [Creativebloq](https://www.creativebloq.com/)
-- [David Walsh](https://davidwalsh.name)
-- [bitsofcode](https://bitsofco.de)
-- [catlin.red](https://catalin.red/)
-- [giftegwuenu](https://giftegwuenu.com)
-- [Raymond Camden](https://raymondcamden.com)
-- [Tania Rascia](https://www.taniarascia.com/)
-- [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
-- [Ayo Isaiah](https://freshman.tech/)
-- [Harry Cresswell](https://harrycresswell.com/articles/)
-
-## ReactJS
-
-- [React for Beginners by Wes Bos](https://reactforbeginners.com/)
-- [Alligator.IO React Page](https://alligator.io/react/)
-- [Egghead.io](https://egghead.io/browse/frameworks/react)
+- [Mastering Markdown](https://masteringmarkdown.com/)
 
 ## NodeJS
 
@@ -176,6 +103,79 @@
 -[Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/)
 - [Advanced Node.js(videos)](https://onedrive.live.com/?authkey=%21ANbPcuk7XxY1hPY&id=9F66D67EBC33737F%2133343&cid=9F66D67EBC33737F)
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
-## Markdown
 
-- [Mastering Markdown](https://masteringmarkdown.com/)
+## Podcasts
+
+- [CodeNewbie](https://www.codenewbie.org/podcast)
+- [Syntax](https://syntax.fm/)
+- [Software Engineering Daily](https://dev.to/sedaily)
+- [The Freecodecamp Podcast](https://freecodecamp.libsyn.com/)
+- [Indie Hackers](indiehackers.com/podcast)
+- [Rework](https://rework.fm/)
+- [Darknet Diaries](https://darknetdiaries.com)
+- [ForLoop Pod](https://podcast.forloop.africa/)
+
+## PWA
+
+- [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
+- [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
+- [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+- [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
+
+## ReactJS
+
+- [React for Beginners by Wes Bos](https://reactforbeginners.com/)
+- [Alligator.IO React Page](https://alligator.io/react/)
+- [Egghead.io](https://egghead.io/browse/frameworks/react)
+
+## Serverless
+
+- [Serverless](https://serverless.com/)
+- [The Power of Serverless](http://thepowerofserverless.info/resources.html)
+- [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
+
+## Sick Picks
+
+- [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
+- [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
+- [Super Cool Illustrations](https://undraw.co/illustrations)
+- [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
+- [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
+- [Google Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Github Styleguide](https://primer.github.io/)
+- [Want To Become A Multi-Millionaire? Do These 15 Things Immediately.](https://journal.thriveglobal.com/want-to-become-a-multi-millionaire-do-these-15-things-immediately-e1e779a6978f?inf_contact_key=9c2f4a1eb788da91821800290cd23e49be1b7aeb634626a9fe8293d8a0fdb204)
+- [Interruption is Not Collaboration](https://m.signalvnoise.com/interruption-is-not-collaboration-8dfb20731569)
+- [Emoji Cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [UiGradient](https://uigradients.com)
+- [FlatUIColor Picker](http://www.flatuicolorpicker.com/)
+- [The Stocks](http://thestocks.im/)
+- [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
+- [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
+- [Array Explorer](https://sdras.github.io/array-explorer/)
+- [Object Explorer](https://sdras.github.io/object-explorer/)
+- [Create VSCode Theme Extension](https://css-tricks.com/creating-a-vs-code-theme/)
+- [30 Seconds of Interviews](https://30secondsofinterviews.org/)
+- [Andela Learning Digest](https://learning-digest.andela.com/)
+- [DevTube](https://dev.tube/)
+- [Make Front-End Shit Again](https://makefrontendshitagain.party/)
+
+## Typescript
+
+ - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
+ - [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
+ - [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages)
+ - [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
+ - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
+ - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
+ - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
+
+## Vue
+
+- [Egghead.io](https://egghead.io/browse/frameworks/vue)
+- [Front End Masters](https://frontendmasters.com/courses/vue/)
+- [Routing and Route Protection in Server-Rendered Vue Apps Using Nuxt.js](https://css-tricks.com/routing-route-protection-server-rendered-vue-apps-using-nuxt-js/#comment-1615086)
+- [Guide to Learning Vue](https://css-tricks.com/guides/vue/)
+- [MadewithVuejs](https://madewithvuejs.com/)
+- [Awesome Vue](https://github.com/vuejs/awesome-vue)
+- [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
+- [Vuejs Cookbook](https://vuejs.org/v2/cookbook/)
