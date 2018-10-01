@@ -80,6 +80,7 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 
+
 ## Markdown
 
 - [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
@@ -92,7 +93,7 @@
 
 - [Fast.ai](http://course.fast.ai/)
 - [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
-- [Coursera-Machine Learning](https://www.coursera.org/learn/machine-learning/)
+- [Kaggle](https://www.kaggle.com/)
 
 ## NodeJS
 
@@ -119,6 +120,8 @@
 -[Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/)
 - [Advanced Node.js(videos)](https://onedrive.live.com/?authkey=%21ANbPcuk7XxY1hPY&id=9F66D67EBC33737F%2133343&cid=9F66D67EBC33737F)
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
+- [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
+
 
 ## Podcasts
 - [Behind the Tech](https://behindthetech.libsynpro.com/)
