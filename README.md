@@ -82,6 +82,10 @@
 - [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
 
 
+## Machine Learning
+
+- [Fast.ai](http://course.fast.ai/)
+
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
