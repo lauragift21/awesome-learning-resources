@@ -89,6 +89,7 @@
 ## Machine Learning
 
 - [Fast.ai](http://course.fast.ai/)
+- [Coursera-Machine Learning](https://www.coursera.org/learn/machine-learning/)
 
 ## NodeJS
 
