@@ -34,6 +34,8 @@
 - [CSS Flexbox by Wes Bos](https://flexbox.io/)
 - [Alligator.IO CSS Page](https://alligator.io/css)
 - [CSS Images](https://coding-artist.teachable.com/)
+- [Learn CSS Layouts](http://learnlayout.com/)
+
 
 ## Developer Blog
 
@@ -78,7 +80,15 @@
 
 ## Markdown
 
+- [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Mastering Markdown](https://masteringmarkdown.com/)
+- [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
+
+
+## Machine Learning
+
+- [Fast.ai](http://course.fast.ai/)
 
 ## NodeJS
 
@@ -162,6 +172,7 @@
 - [Andela Learning Digest](https://learning-digest.andela.com/)
 - [DevTube](https://dev.tube/)
 - [Make Front-End Shit Again](https://makefrontendshitagain.party/)
+- [Learn algorithms from Tushar Roy for jobs](https://github.com/mission-peace)
 
 ## Typescript
 
@@ -183,6 +194,8 @@
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 - [Vuejs Cookbook](https://vuejs.org/v2/cookbook/)
+- [From Zero to Hero with Vue - But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
+
 
 ## Women in Tech
 
