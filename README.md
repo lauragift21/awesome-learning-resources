@@ -9,6 +9,7 @@
 - [Developer Stories](#developer-stories)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
+- [Machine Learning](#machine-learning)
 - [NodeJS](#nodejs)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
@@ -21,6 +22,7 @@
 
 ## CSS
 
+- [Marksheet.io](https://marksheet.io/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [W3Schools](https://www.w3schools.com/)
@@ -90,6 +92,7 @@
 
 - [Fast.ai](http://course.fast.ai/)
 - [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
+- [Coursera-Machine Learning](https://www.coursera.org/learn/machine-learning/)
 
 ## NodeJS
 
