@@ -32,6 +32,7 @@
 - [CSS Grid by Wes Bos](https://cssgrid.io/)
 - [CSS Flexbox by Wes Bos](https://flexbox.io/)
 - [Alligator.IO CSS Page](https://alligator.io/css)
+- [Learn CSS Layouts](http://learnlayout.com/)
 
 ## Developer Blog
 
