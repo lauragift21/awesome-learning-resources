@@ -91,6 +91,7 @@
 ## Machine Learning
 
 - [Fast.ai](http://course.fast.ai/)
+- [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
 - [Coursera-Machine Learning](https://www.coursera.org/learn/machine-learning/)
 
 ## NodeJS
