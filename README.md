@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## Table of Content
+## Table of Contents
 
 - [CSS](#css)
 - [Developer Blog](#developer-blog)
@@ -15,8 +15,9 @@
 - [ReactJS](#reactjs)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
-- [Vue](#vue)
 - [Typescript](#typescript)
+- [Vue](#vue)
+- [Women in Tech](#women-in-tech)
 
 ## CSS
 
@@ -32,6 +33,7 @@
 - [CSS Grid by Wes Bos](https://cssgrid.io/)
 - [CSS Flexbox by Wes Bos](https://flexbox.io/)
 - [Alligator.IO CSS Page](https://alligator.io/css)
+- [CSS Images](https://coding-artist.teachable.com/)
 
 ## Developer Blog
 
@@ -105,7 +107,7 @@
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 
 ## Podcasts
-
+- [Behind the Tech](https://behindthetech.libsynpro.com/)
 - [CodeNewbie](https://www.codenewbie.org/podcast)
 - [Syntax](https://syntax.fm/)
 - [Software Engineering Daily](https://dev.to/sedaily)
@@ -114,6 +116,9 @@
 - [Rework](https://rework.fm/)
 - [Darknet Diaries](https://darknetdiaries.com)
 - [ForLoop Pod](https://podcast.forloop.africa/)
+- [Soft Skills Engineering](https://softskills.audio/)
+- [Free Code Camp](https://freecodecamp.libsyn.com/)
+
 
 ## PWA
 
@@ -179,3 +184,9 @@
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 - [Vuejs Cookbook](https://vuejs.org/v2/cookbook/)
+
+## Women in Tech
+
+- [Women Who Code](https://www.womenwhocode.com)
+- [Ladies of Code](https://www.ladiesofcode.com/)
+- [Women in Tech](https://www.womenintech.co.uk/)
