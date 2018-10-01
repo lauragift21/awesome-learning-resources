@@ -9,6 +9,7 @@
 - [Developer Stories](#developer-stories)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
+- [Machine Learning](#machine-learning)
 - [NodeJS](#nodejs)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
@@ -89,6 +90,7 @@
 ## Machine Learning
 
 - [Fast.ai](http://course.fast.ai/)
+- [Coursera-Machine Learning](https://www.coursera.org/learn/machine-learning/)
 
 ## NodeJS
 
