@@ -119,7 +119,6 @@
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
 
-
 ## PWA
 
 - [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
