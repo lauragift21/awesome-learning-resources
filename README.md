@@ -78,6 +78,10 @@
 
 - [Mastering Markdown](https://masteringmarkdown.com/)
 
+## Machine Learning
+
+- [Fast.ai](http://course.fast.ai/)
+
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
