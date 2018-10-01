@@ -158,6 +158,7 @@
 - [Andela Learning Digest](https://learning-digest.andela.com/)
 - [DevTube](https://dev.tube/)
 - [Make Front-End Shit Again](https://makefrontendshitagain.party/)
+- [Learn algorithms from Tushar Roy for jobs](https://github.com/mission-peace)
 
 ## Typescript
 
