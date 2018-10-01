@@ -76,7 +76,15 @@
 
 ## Markdown
 
+- [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Mastering Markdown](https://masteringmarkdown.com/)
+- [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
+
+
+## Machine Learning
+
+- [Fast.ai](http://course.fast.ai/)
 
 ## NodeJS
 
@@ -158,6 +166,7 @@
 - [Andela Learning Digest](https://learning-digest.andela.com/)
 - [DevTube](https://dev.tube/)
 - [Make Front-End Shit Again](https://makefrontendshitagain.party/)
+- [Learn algorithms from Tushar Roy for jobs](https://github.com/mission-peace)
 
 ## Typescript
 
