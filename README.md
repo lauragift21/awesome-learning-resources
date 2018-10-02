@@ -96,6 +96,14 @@
 - [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
 - [Kaggle](https://www.kaggle.com/)
 
+
+## PHP
+
+- [7 days challenge](https://www.guru99.com/php-tutorials.html)
+- [The right way](https://phptherightway.com/)
+- [In site learn](https://www.learn-php.org/)
+- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
+
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
