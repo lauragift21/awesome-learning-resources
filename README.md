@@ -55,6 +55,7 @@
 - [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
 - [Ayo Isaiah](https://freshman.tech/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
+- [Martin Fowler](https://martinfowler.com/)
 
 ## Developer Stories
 
