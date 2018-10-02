@@ -95,6 +95,8 @@
 - [Fast.ai](http://course.fast.ai/)
 - [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
 - [Kaggle](https://www.kaggle.com/)
+- [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+- [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 
 ## NodeJS
 
