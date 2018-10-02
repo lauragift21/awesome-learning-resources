@@ -157,6 +157,7 @@
 - [Serverless](https://serverless.com/)
 - [The Power of Serverless](http://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
+- [A Cloud Guru](https://acloud.guru/courses)
 
 ## Sick Picks
 
