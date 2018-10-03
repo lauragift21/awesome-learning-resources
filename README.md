@@ -10,6 +10,7 @@
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
+- [PHP](#php)
 - [NodeJS](#nodejs)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
