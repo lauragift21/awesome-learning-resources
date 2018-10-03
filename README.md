@@ -55,6 +55,7 @@
 - [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
 - [Ayo Isaiah](https://freshman.tech/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
+_ [Todd Motto](https://toddmotto.com/)
 
 ## Developer Stories
 
@@ -157,6 +158,7 @@
 - [Serverless](https://serverless.com/)
 - [The Power of Serverless](http://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
+- [A Cloud Guru](https://acloud.guru/courses)
 
 ## Sick Picks
 
