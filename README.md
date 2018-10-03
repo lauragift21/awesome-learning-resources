@@ -56,6 +56,7 @@
 - [Ayo Isaiah](https://freshman.tech/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
 - [Martin Fowler](https://martinfowler.com/)
+_ [Todd Motto](https://toddmotto.com/)
 
 ## Developer Stories
 
