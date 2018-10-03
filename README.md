@@ -99,7 +99,8 @@ _ [Todd Motto](https://toddmotto.com/)
 - [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
 - [Kaggle](https://www.kaggle.com/)
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
-- [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
+- [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/) 
+- [An Introduction to Statistical Learning with Applications in R] (http://www-bcf.usc.edu/~gareth/ISL/)
 
 
 ## PHP
