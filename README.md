@@ -7,6 +7,7 @@
 - [CSS](#css)
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
+- [GraphQL](#graphql)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
@@ -64,6 +65,15 @@ _ [Todd Motto](https://toddmotto.com/)
 - [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
+
+##GraphQL
+- [What is GraphQL?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
+- [Intro to GraphQL](https://blog.apollographql.com/the-basics-of-graphql-in-5-links-9e1dc4cac055)
+- [GraphQL Explained](https://blog.apollographql.com/graphql-explained-5844742f195e)
+- [GraphQL vs REST overview](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/)
+- [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
+- [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
+- [Authentication and Authorization in GraphQL](https://speakerdeck.com/unicodeveloper/authentication-and-authorization-in-graphql?slide=6)
 
 ## JavaScript
 
