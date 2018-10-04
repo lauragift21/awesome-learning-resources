@@ -66,7 +66,7 @@ _ [Todd Motto](https://toddmotto.com/)
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 
-##GraphQL
+## GraphQL
 - [What is GraphQL?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Intro to GraphQL](https://blog.apollographql.com/the-basics-of-graphql-in-5-links-9e1dc4cac055)
 - [GraphQL Explained](https://blog.apollographql.com/graphql-explained-5844742f195e)
