@@ -7,6 +7,7 @@
 - [CSS](#css)
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
+- [Golang](#golang)
 - [GraphQL](#graphql)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
@@ -65,6 +66,14 @@ _ [Todd Motto](https://toddmotto.com/)
 - [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
+
+## Golang
+
+- [A Tour of Go](https://tour.golang.org/welcome/1)
+- [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
+- [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+- [Go for Javascript Developers](http://www.pazams.com/Go-for-Javascript-Developers/)
+- [Golang Tutorials](http://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
 
 ## GraphQL
 - [What is GraphQL?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
