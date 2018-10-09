@@ -119,7 +119,7 @@ _ [Todd Motto](https://toddmotto.com/)
 - [Kaggle](https://www.kaggle.com/)
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/) 
-- [An Introduction to Statistical Learning with Applications in R] (http://www-bcf.usc.edu/~gareth/ISL/)
+- [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
 
 ## PHP
