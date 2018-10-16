@@ -177,6 +177,10 @@ _ [Todd Motto](https://toddmotto.com/)
 - [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
 
+## Python
+
+- [Python Tips](book.pythontips.com/en/latest/index.html)
+
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
