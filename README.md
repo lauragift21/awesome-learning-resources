@@ -16,6 +16,7 @@
 - [NodeJS](#nodejs)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
+- [Python](#python)
 - [ReactJS](#reactjs)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
