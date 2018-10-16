@@ -180,7 +180,7 @@ _ [Todd Motto](https://toddmotto.com/)
 
 ## Python
 
-- [Python Tips](book.pythontips.com/en/latest/index.html)
+- [Python Tips](http://book.pythontips.com/en/latest/index.html)
 
 ## ReactJS
 
