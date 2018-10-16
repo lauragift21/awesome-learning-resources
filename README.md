@@ -9,6 +9,7 @@
 - [Developer Stories](#developer-stories)
 - [Golang](#golang)
 - [GraphQL](#graphql)
+- [InfoSec](#infosec)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
@@ -83,6 +84,13 @@ _ [Todd Motto](https://toddmotto.com/)
 - [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
 - [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
 - [Authentication and Authorization in GraphQL](https://speakerdeck.com/unicodeveloper/authentication-and-authorization-in-graphql?slide=6)
+
+## InfoSec
+- [awesome-infosec](https://github.com/onlurking/awesome-infosec)
+- [SecLists](https://github.com/danielmiessler/SecLists)
+- [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
+- [Reverse Engineering 101](https://securedorg.github.io/RE101/)
+- [Reverse Engineering 102](https://securedorg.github.io/RE102/)
 
 ## JavaScript
 
