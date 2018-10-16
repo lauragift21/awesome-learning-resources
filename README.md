@@ -5,8 +5,10 @@
 ## Table of Contents
 
 - [CSS](#css)
+- [Data Science](#data-science)
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
+- [Django](#django)
 - [Golang](#golang)
 - [GraphQL](#graphql)
 - [InfoSec](#infosec)
@@ -14,11 +16,13 @@
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
 - [PHP](#php)
+- [Python](#python)
 - [NodeJS](#nodejs)
 - [Oracle Application Express (APEX)](#APEX)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
 - [ReactJS](#reactjs)
+- [Ruby](#ruby)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
 - [Typescript](#typescript)
@@ -43,6 +47,12 @@
 - [CSS Images](https://coding-artist.teachable.com/)
 - [Learn CSS Layouts](http://learnlayout.com/)
 
+## Date Science
+
+- [DataCamp](https://www.datacamp.com/)
+- [New Coder](http://newcoder.io/)
+- [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+- [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
 
 ## Developer Blog
 
@@ -68,6 +78,10 @@
 - [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
+
+## Django
+- [Django Girls](https://tutorial.djangogirls.org/)
+- [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 
 ## Golang
 
@@ -139,6 +153,13 @@
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 
 
+## Python
+
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+- [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/)
+
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
@@ -161,7 +182,7 @@
 - [Node.js Production Checklist](https://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 - [Debugging Node.js Apps in Production](https://blog.risingstack.com/node-js-war-stories-solving-issues-in-production-2/)
 - [Node.js Performance Tips](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
--[Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/)
+- [Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/)
 - [Advanced Node.js(videos)](https://onedrive.live.com/?authkey=%21ANbPcuk7XxY1hPY&id=9F66D67EBC33737F%2133343&cid=9F66D67EBC33737F)
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
@@ -194,6 +215,12 @@
 - [ForLoop Pod](https://podcast.forloop.africa/)
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
+- [The Women in Tech Show](https://thewomenintechshow.com/)
+- [Front End Happy Hour](http://frontendhappyhour.com/)
+- [Pursuit Podcast](http://pursuit.tech/)
+- [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
+- [Women in Tech](http://podcast.womenintechshow.com/episodes)
+
 
 ## PWA
 
@@ -207,6 +234,12 @@
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 - [Alligator.IO React Page](https://alligator.io/react/)
 - [Egghead.io](https://egghead.io/browse/frameworks/react)
+
+## Ruby
+
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
+- [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
 
 ## Serverless
 
@@ -270,3 +303,4 @@
 - [Women Who Code](https://www.womenwhocode.com)
 - [Ladies of Code](https://www.ladiesofcode.com/)
 - [Women in Tech](https://www.womenintech.co.uk/)
+- [Tech Ladies](https://www.hiretechladies.com/)
