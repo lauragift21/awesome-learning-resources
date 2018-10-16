@@ -14,6 +14,7 @@
 - [Machine Learning](#machine-learning)
 - [PHP](#php)
 - [NodeJS](#nodejs)
+- [Oracle Application Express (APEX)](#APEX)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
 - [ReactJS](#reactjs)
@@ -129,6 +130,7 @@ _ [Todd Motto](https://toddmotto.com/)
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 
+
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
@@ -157,7 +159,22 @@ _ [Todd Motto](https://toddmotto.com/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 
 
+## APEX
+
+- [Ask TOM](https://asktom.oracle.com/pls/apex/f?p=100:1000::::::)
+- [Oracle APEX Community](https://community.oracle.com/community/technology_network_community/database/developer-tools/application_express)
+- [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
+- [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
+- [APEX Office Hours](https://asktom.oracle.com/pls/apex/f?p=100:551:::NO:551:P551_CLASS_ID:744:)
+- [Maxime Tremblay's Blog](http://max-tremblay.blogspot.com/)
+- [Explorer UK](https://explorer.uk.com/blog/)
+- [Talk APEX](https://www.talkapex.com/)
+- [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
+- [Oracle APEX Website](https://apex.oracle.com/)
+
+
 ## Podcasts
+
 - [Behind the Tech](https://behindthetech.libsynpro.com/)
 - [CodeNewbie](https://www.codenewbie.org/podcast)
 - [Syntax](https://syntax.fm/)
