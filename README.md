@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Application Express (APEX)](#apex)
 - [CSS](#css)
 - [Data Science](#data-science)
 - [Developer Blog](#developer-blog)
@@ -17,10 +18,11 @@
 - [Machine Learning](#machine-learning)
 - [PHP](#php)
 - [Python](#python)
+- [PL/SQL](#plsql)
 - [NodeJS](#nodejs)
-- [Oracle Application Express (APEX)](#APEX)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
+- [Python](#python)
 - [ReactJS](#reactjs)
 - [Ruby](#ruby)
 - [Serverless](#serverless)
@@ -42,7 +44,6 @@
 - [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
 - [Oracle APEX Website](https://apex.oracle.com/)
 
-
 ## CSS
 
 - [Marksheet.io](https://marksheet.io/)
@@ -61,12 +62,14 @@
 - [CSS Images](https://coding-artist.teachable.com/)
 - [Learn CSS Layouts](http://learnlayout.com/)
 
+
 ## Date Science
 
 - [DataCamp](https://www.datacamp.com/)
 - [New Coder](http://newcoder.io/)
 - [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
+
 
 ## Developer Blog
 
@@ -139,7 +142,6 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 
-
 ## Markdown
 
 - [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
@@ -147,7 +149,6 @@
 - [Markdown lessons](https://commonmark.org/help/tutorial/)
 - [Mastering Markdown](https://masteringmarkdown.com/)
 - [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
-
 
 ## Machine Learning
 
@@ -157,6 +158,15 @@
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+
+
+## PHP
+
+- [7 days challenge](https://www.guru99.com/php-tutorials.html)
+- [The right way](https://phptherightway.com/)
+- [In site learn](https://www.learn-php.org/)
+- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
+
 
 ## NodeJS
 
@@ -186,12 +196,14 @@
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 
 
+
 ## PHP
 
 - [7 days challenge](https://www.guru99.com/php-tutorials.html)
 - [The right way](https://phptherightway.com/)
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
+
 
 ## Podcasts
 
@@ -213,6 +225,12 @@
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
 
 
+## PLSQL
+
+- [TechOnTheNet](https://www.techonthenet.com/oracle/index.php)
+- [Tutorials Point](https://www.tutorialspoint.com/plsql/)
+- [Oracle Database Development Guide](https://docs.oracle.com/database/121/ADFNS/toc.htm)
+
 ## PWA
 
 - [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
@@ -222,11 +240,12 @@
 
 ## Python
 
+
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 - [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/)
-
+- [Python Tips](http://book.pythontips.com/en/latest/index.html)
 
 
 ## ReactJS
