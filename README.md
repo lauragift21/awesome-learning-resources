@@ -9,6 +9,7 @@
 - [Developer Stories](#developer-stories)
 - [Golang](#golang)
 - [GraphQL](#graphql)
+- [InfoSec](#infosec)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
@@ -60,7 +61,7 @@
 - [Ayo Isaiah](https://freshman.tech/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
 - [Martin Fowler](https://martinfowler.com/)
-_ [Todd Motto](https://toddmotto.com/)
+- [Todd Motto](https://toddmotto.com/)
 
 ## Developer Stories
 
@@ -84,6 +85,13 @@ _ [Todd Motto](https://toddmotto.com/)
 - [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
 - [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
 - [Authentication and Authorization in GraphQL](https://speakerdeck.com/unicodeveloper/authentication-and-authorization-in-graphql?slide=6)
+
+## InfoSec
+- [awesome-infosec](https://github.com/onlurking/awesome-infosec)
+- [SecLists](https://github.com/danielmiessler/SecLists)
+- [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
+- [Reverse Engineering 101](https://securedorg.github.io/RE101/)
+- [Reverse Engineering 102](https://securedorg.github.io/RE102/)
 
 ## JavaScript
 
@@ -119,7 +127,7 @@ _ [Todd Motto](https://toddmotto.com/)
 - [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
 - [Kaggle](https://www.kaggle.com/)
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
-- [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/) 
+- [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
 
@@ -232,6 +240,7 @@ _ [Todd Motto](https://toddmotto.com/)
 - [DevTube](https://dev.tube/)
 - [Make Front-End Shit Again](https://makefrontendshitagain.party/)
 - [Learn algorithms from Tushar Roy for jobs](https://github.com/mission-peace)
+- [Refactoring, write awesome code](https://sourcemaking.com/refactoring)
 
 ## Typescript
 
