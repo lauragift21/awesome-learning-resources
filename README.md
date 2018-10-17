@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Application Express (APEX)](#apex)
 - [CSS](#css)
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
@@ -14,8 +15,8 @@
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
 - [PHP](#php)
+- [PL/SQL](#plsql)
 - [NodeJS](#nodejs)
-- [Oracle Application Express (APEX)](#APEX)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
 - [ReactJS](#reactjs)
@@ -24,6 +25,19 @@
 - [Typescript](#typescript)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+
+## APEX
+
+- [Ask TOM](https://asktom.oracle.com/pls/apex/f?p=100:1000::::::)
+- [Oracle APEX Community](https://community.oracle.com/community/technology_network_community/database/developer-tools/application_express)
+- [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
+- [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
+- [APEX Office Hours](https://asktom.oracle.com/pls/apex/f?p=100:551:::NO:551:P551_CLASS_ID:744:)
+- [Maxime Tremblay's Blog](http://max-tremblay.blogspot.com/)
+- [Explorer UK](https://explorer.uk.com/blog/)
+- [Talk APEX](https://www.talkapex.com/)
+- [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
+- [Oracle APEX Website](https://apex.oracle.com/)
 
 ## CSS
 
@@ -42,7 +56,6 @@
 - [Alligator.IO CSS Page](https://alligator.io/css)
 - [CSS Images](https://coding-artist.teachable.com/)
 - [Learn CSS Layouts](http://learnlayout.com/)
-
 
 ## Developer Blog
 
@@ -111,7 +124,6 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 
-
 ## Markdown
 
 - [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
@@ -119,7 +131,6 @@
 - [Markdown lessons](https://commonmark.org/help/tutorial/)
 - [Mastering Markdown](https://masteringmarkdown.com/)
 - [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
-
 
 ## Machine Learning
 
@@ -129,7 +140,6 @@
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
-
 
 ## PHP
 
@@ -161,25 +171,10 @@
 - [Node.js Production Checklist](https://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 - [Debugging Node.js Apps in Production](https://blog.risingstack.com/node-js-war-stories-solving-issues-in-production-2/)
 - [Node.js Performance Tips](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
--[Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/)
+- [Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/)
 - [Advanced Node.js(videos)](https://onedrive.live.com/?authkey=%21ANbPcuk7XxY1hPY&id=9F66D67EBC33737F%2133343&cid=9F66D67EBC33737F)
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
-
-
-## APEX
-
-- [Ask TOM](https://asktom.oracle.com/pls/apex/f?p=100:1000::::::)
-- [Oracle APEX Community](https://community.oracle.com/community/technology_network_community/database/developer-tools/application_express)
-- [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
-- [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
-- [APEX Office Hours](https://asktom.oracle.com/pls/apex/f?p=100:551:::NO:551:P551_CLASS_ID:744:)
-- [Maxime Tremblay's Blog](http://max-tremblay.blogspot.com/)
-- [Explorer UK](https://explorer.uk.com/blog/)
-- [Talk APEX](https://www.talkapex.com/)
-- [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
-- [Oracle APEX Website](https://apex.oracle.com/)
-
 
 ## Podcasts
 
@@ -194,6 +189,12 @@
 - [ForLoop Pod](https://podcast.forloop.africa/)
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
+
+## PLSQL
+
+- [TechOnTheNet](https://www.techonthenet.com/oracle/index.php)
+- [Tutorials Point](https://www.tutorialspoint.com/plsql/)
+- [Oracle Database Development Guide](https://docs.oracle.com/database/121/ADFNS/toc.htm)
 
 ## PWA
 
