@@ -29,6 +29,20 @@
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
 
+## APEX
+
+- [Ask TOM](https://asktom.oracle.com/pls/apex/f?p=100:1000::::::)
+- [Oracle APEX Community](https://community.oracle.com/community/technology_network_community/database/developer-tools/application_express)
+- [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
+- [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
+- [APEX Office Hours](https://asktom.oracle.com/pls/apex/f?p=100:551:::NO:551:P551_CLASS_ID:744:)
+- [Maxime Tremblay's Blog](http://max-tremblay.blogspot.com/)
+- [Explorer UK](https://explorer.uk.com/blog/)
+- [Talk APEX](https://www.talkapex.com/)
+- [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
+- [Oracle APEX Website](https://apex.oracle.com/)
+
+
 ## CSS
 
 - [Marksheet.io](https://marksheet.io/)
@@ -144,22 +158,6 @@
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
-
-## PHP
-
-- [7 days challenge](https://www.guru99.com/php-tutorials.html)
-- [The right way](https://phptherightway.com/)
-- [In site learn](https://www.learn-php.org/)
-- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
-
-
-## Python
-
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
-- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
-- [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/)
-
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
@@ -188,19 +186,12 @@
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 
 
-## APEX
+## PHP
 
-- [Ask TOM](https://asktom.oracle.com/pls/apex/f?p=100:1000::::::)
-- [Oracle APEX Community](https://community.oracle.com/community/technology_network_community/database/developer-tools/application_express)
-- [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
-- [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
-- [APEX Office Hours](https://asktom.oracle.com/pls/apex/f?p=100:551:::NO:551:P551_CLASS_ID:744:)
-- [Maxime Tremblay's Blog](http://max-tremblay.blogspot.com/)
-- [Explorer UK](https://explorer.uk.com/blog/)
-- [Talk APEX](https://www.talkapex.com/)
-- [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
-- [Oracle APEX Website](https://apex.oracle.com/)
-
+- [7 days challenge](https://www.guru99.com/php-tutorials.html)
+- [The right way](https://phptherightway.com/)
+- [In site learn](https://www.learn-php.org/)
+- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 
 ## Podcasts
 
@@ -228,6 +219,15 @@
 - [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
 - [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
+
+## Python
+
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+- [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/)
+
+
 
 ## ReactJS
 
