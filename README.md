@@ -19,6 +19,7 @@
 - [NodeJS](#nodejs)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
+- [Python](#python)
 - [ReactJS](#reactjs)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
@@ -202,6 +203,10 @@
 - [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
 - [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
+
+## Python
+
+- [Python Tips](http://book.pythontips.com/en/latest/index.html)
 
 ## ReactJS
 
