@@ -6,8 +6,10 @@
 
 - [Application Express (APEX)](#apex)
 - [CSS](#css)
+- [Data Science](#data-science)
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
+- [Django](#django)
 - [Golang](#golang)
 - [GraphQL](#graphql)
 - [InfoSec](#infosec)
@@ -15,12 +17,14 @@
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
 - [PHP](#php)
+- [Python](#python)
 - [PL/SQL](#plsql)
 - [NodeJS](#nodejs)
 - [Podcasts](#podcasts)
 - [PWA](#pwa)
 - [Python](#python)
 - [ReactJS](#reactjs)
+- [Ruby](#ruby)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
 - [Typescript](#typescript)
@@ -58,6 +62,15 @@
 - [CSS Images](https://coding-artist.teachable.com/)
 - [Learn CSS Layouts](http://learnlayout.com/)
 
+
+## Date Science
+
+- [DataCamp](https://www.datacamp.com/)
+- [New Coder](http://newcoder.io/)
+- [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+- [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
+
+
 ## Developer Blog
 
 - [Alistapart](http://alistapart.com)
@@ -82,6 +95,10 @@
 - [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
+
+## Django
+- [Django Girls](https://tutorial.djangogirls.org/)
+- [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 
 ## Golang
 
@@ -142,6 +159,7 @@
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
+
 ## PHP
 
 - [7 days challenge](https://www.guru99.com/php-tutorials.html)
@@ -177,6 +195,16 @@
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 
+
+
+## PHP
+
+- [7 days challenge](https://www.guru99.com/php-tutorials.html)
+- [The right way](https://phptherightway.com/)
+- [In site learn](https://www.learn-php.org/)
+- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
+
+
 ## Podcasts
 
 - [Behind the Tech](https://behindthetech.libsynpro.com/)
@@ -190,6 +218,12 @@
 - [ForLoop Pod](https://podcast.forloop.africa/)
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
+- [The Women in Tech Show](https://thewomenintechshow.com/)
+- [Front End Happy Hour](http://frontendhappyhour.com/)
+- [Pursuit Podcast](http://pursuit.tech/)
+- [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
+- [Women in Tech](http://podcast.womenintechshow.com/episodes)
+
 
 ## PLSQL
 
@@ -206,13 +240,25 @@
 
 ## Python
 
+
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+- [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/)
 - [Python Tips](http://book.pythontips.com/en/latest/index.html)
+
 
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 - [Alligator.IO React Page](https://alligator.io/react/)
 - [Egghead.io](https://egghead.io/browse/frameworks/react)
+
+## Ruby
+
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
+- [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
 
 ## Serverless
 
@@ -276,3 +322,4 @@
 - [Women Who Code](https://www.womenwhocode.com)
 - [Ladies of Code](https://www.ladiesofcode.com/)
 - [Women in Tech](https://www.womenintech.co.uk/)
+- [Tech Ladies](https://www.hiretechladies.com/)
