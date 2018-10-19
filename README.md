@@ -63,7 +63,7 @@
 - [Learn CSS Layouts](http://learnlayout.com/)
 
 
-## Date Science
+## Data Science
 
 - [DataCamp](https://www.datacamp.com/)
 - [New Coder](http://newcoder.io/)
@@ -73,22 +73,23 @@
 
 ## Developer Blog
 
+- [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
 - [Alistapart](http://alistapart.com)
-- [Zell's Blog](https://zellwk.com/blog)
-- [Mark Dotto Blog](http://markdotto.com)
 - [Assortment.io](https://assortment.io/)
-- [Creativebloq](https://www.creativebloq.com/)
-- [David Walsh](https://davidwalsh.name)
+- [Ayo Isaiah](https://freshman.tech/)
 - [bitsofcode](https://bitsofco.de)
 - [catlin.red](https://catalin.red/)
+- [Creativebloq](https://www.creativebloq.com/)
+- [David Heinemeier Hansson (DHH)](https://medium.com/@dhh)
+- [David Walsh](https://davidwalsh.name)
 - [giftegwuenu](https://giftegwuenu.com)
+- [Harry Cresswell](https://harrycresswell.com/articles/)
+- [Mark Dotto Blog](http://markdotto.com)
+- [Martin Fowler](https://martinfowler.com/)
 - [Raymond Camden](https://raymondcamden.com)
 - [Tania Rascia](https://www.taniarascia.com/)
-- [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
-- [Ayo Isaiah](https://freshman.tech/)
-- [Harry Cresswell](https://harrycresswell.com/articles/)
-- [Martin Fowler](https://martinfowler.com/)
 - [Todd Motto](https://toddmotto.com/)
+- [Zell's Blog](https://zellwk.com/blog)
 
 ## Developer Stories
 
