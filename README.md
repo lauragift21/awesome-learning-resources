@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Angular](#angular)
 - [Application Express (APEX)](#apex)
 - [CSS](#css)
 - [Data Science](#data-science)
@@ -30,6 +31,17 @@
 - [Typescript](#typescript)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+
+## Angular
+- [Official Angular Quickstart](https://angular.io/guide/quickstart)
+- [Angular's Source Code](https://github.com/angular/angular) Maintained by Google
+- [Angular Console](https://angularconsole.com/) A nifty UI for the Angular CLI
+- [Angular Material](https://material.angular.io/) Angular implementation of Google's Material design
+- [Sample Angular Starter App](https://github.com/duluca/lemon-mart)
+- [John Papa's Blog](https://johnpapa.net/)
+- [Angular2+ Version Upgrade Guide](https://update.angular.io/)
+- [AngularJS to Angular2+ Migration Guide](https://angular.io/guide/upgrade)
+
 
 ## APEX
 
