@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Agile](#agile)
 - [Angular](#angular)
 - [Application Express (APEX)](#apex)
 - [CSS](#css)
@@ -31,6 +32,10 @@
 - [Typescript](#typescript)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+
+## Agile
+- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- [Martin Fowler's website](https://martinfowler.com/)
 
 ## Angular
 - [Official Angular Quickstart](https://angular.io/guide/quickstart)
@@ -112,6 +117,7 @@
 ## Django
 - [Django Girls](https://tutorial.djangogirls.org/)
 - [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
+- [Classy Class-Based Views](https://ccbv.co.uk/)
 
 ## Golang
 
