@@ -338,6 +338,7 @@
 
 ## Women in Tech
 
+- [Vue Vixens](https://vuevixens.org/)
 - [Women Who Code](https://www.womenwhocode.com)
 - [Ladies of Code](https://www.ladiesofcode.com/)
 - [Women in Tech](https://www.womenintech.co.uk/)
