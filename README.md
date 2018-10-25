@@ -79,6 +79,7 @@
 - [Alligator.IO CSS Page](https://alligator.io/css)
 - [CSS Images](https://coding-artist.teachable.com/)
 - [Learn CSS Layouts](http://learnlayout.com/)
+- [Learn HTML & CSS](https://learn.shayhowe.com/)
 
 ## Data Science
 
@@ -93,16 +94,19 @@
 - [Alistapart](http://alistapart.com)
 - [Assortment.io](https://assortment.io/)
 - [Ayo Isaiah](https://freshman.tech/)
+- [Backticks & TIldes](https://medium.com/backticks-tildes)
 - [bitsofcode](https://bitsofco.de)
 - [catlin.red](https://catalin.red/)
 - [Creativebloq](https://www.creativebloq.com/)
 - [David Heinemeier Hansson (DHH)](https://medium.com/@dhh)
 - [David Walsh](https://davidwalsh.name)
 - [giftegwuenu](https://giftegwuenu.com)
+- [Jake Archibald](https://jakearchibald.com/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
 - [Mark Dotto Blog](http://markdotto.com)
 - [Martin Fowler](https://martinfowler.com/)
 - [Raymond Camden](https://raymondcamden.com)
+- [Shay Howe](https://learn.shayhowe.com/)
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Todd Motto](https://toddmotto.com/)
 - [Zell's Blog](https://zellwk.com/blog)
