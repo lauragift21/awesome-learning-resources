@@ -264,6 +264,7 @@
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 - [Alligator.IO React Page](https://alligator.io/react/)
 - [Egghead.io](https://egghead.io/browse/frameworks/react)
+- [Fronted Masters](https://frontendmasters.com/learn/react/)
 
 ## Ruby
 
