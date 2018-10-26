@@ -34,10 +34,12 @@
 - [Women in Tech](#women-in-tech)
 
 ## Agile
+
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - [Martin Fowler's website](https://martinfowler.com/)
 
 ## Angular
+
 - [Official Angular Quickstart](https://angular.io/guide/quickstart)
 - [Angular's Source Code](https://github.com/angular/angular) Maintained by Google
 - [Angular Console](https://angularconsole.com/) A nifty UI for the Angular CLI
@@ -46,7 +48,6 @@
 - [John Papa's Blog](https://johnpapa.net/)
 - [Angular2+ Version Upgrade Guide](https://update.angular.io/)
 - [AngularJS to Angular2+ Migration Guide](https://angular.io/guide/upgrade)
-
 
 ## APEX
 
@@ -78,7 +79,7 @@
 - [Alligator.IO CSS Page](https://alligator.io/css)
 - [CSS Images](https://coding-artist.teachable.com/)
 - [Learn CSS Layouts](http://learnlayout.com/)
-
+- [Learn HTML & CSS](https://learn.shayhowe.com/)
 
 ## Data Science
 
@@ -87,23 +88,25 @@
 - [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
 
-
 ## Developer Blog
 
 - [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
 - [Alistapart](http://alistapart.com)
 - [Assortment.io](https://assortment.io/)
 - [Ayo Isaiah](https://freshman.tech/)
+- [Backticks & TIldes](https://medium.com/backticks-tildes)
 - [bitsofcode](https://bitsofco.de)
 - [catlin.red](https://catalin.red/)
 - [Creativebloq](https://www.creativebloq.com/)
 - [David Heinemeier Hansson (DHH)](https://medium.com/@dhh)
 - [David Walsh](https://davidwalsh.name)
 - [giftegwuenu](https://giftegwuenu.com)
+- [Jake Archibald](https://jakearchibald.com/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
 - [Mark Dotto Blog](http://markdotto.com)
 - [Martin Fowler](https://martinfowler.com/)
 - [Raymond Camden](https://raymondcamden.com)
+- [Shay Howe](https://learn.shayhowe.com/)
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Todd Motto](https://toddmotto.com/)
 - [Zell's Blog](https://zellwk.com/blog)
@@ -115,6 +118,7 @@
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 
 ## Django
+
 - [Django Girls](https://tutorial.djangogirls.org/)
 - [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
@@ -128,6 +132,7 @@
 - [Golang Tutorials](http://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
 
 ## GraphQL
+
 - [What is GraphQL?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Intro to GraphQL](https://blog.apollographql.com/the-basics-of-graphql-in-5-links-9e1dc4cac055)
 - [GraphQL Explained](https://blog.apollographql.com/graphql-explained-5844742f195e)
@@ -135,8 +140,10 @@
 - [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
 - [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
 - [Authentication and Authorization in GraphQL](https://speakerdeck.com/unicodeveloper/authentication-and-authorization-in-graphql?slide=6)
+- [HowToGraphQL](https://www.howtographql.com)
 
 ## InfoSec
+
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
@@ -178,14 +185,12 @@
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
-
 ## PHP
 
 - [7 days challenge](https://www.guru99.com/php-tutorials.html)
 - [The right way](https://phptherightway.com/)
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
-
 
 ## NodeJS
 
@@ -214,16 +219,6 @@
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 
-
-
-## PHP
-
-- [7 days challenge](https://www.guru99.com/php-tutorials.html)
-- [The right way](https://phptherightway.com/)
-- [In site learn](https://www.learn-php.org/)
-- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
-
-
 ## Podcasts
 
 - [Behind the Tech](https://behindthetech.libsynpro.com/)
@@ -243,7 +238,6 @@
 - [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
 
-
 ## PLSQL
 
 - [TechOnTheNet](https://www.techonthenet.com/oracle/index.php)
@@ -259,13 +253,11 @@
 
 ## Python
 
-
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 - [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/)
 - [Python Tips](http://book.pythontips.com/en/latest/index.html)
-
 
 ## ReactJS
 
@@ -315,13 +307,13 @@
 
 ## Typescript
 
- - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
- - [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
- - [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages)
- - [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
- - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
- - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
- - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
+- [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
+- [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
+- [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages)
+- [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
+- [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
+- [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
+- [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
 
 ## Vue
 
@@ -334,7 +326,6 @@
 - [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 - [Vuejs Cookbook](https://vuejs.org/v2/cookbook/)
 - [From Zero to Hero with Vue - But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
-
 
 ## Women in Tech
 
