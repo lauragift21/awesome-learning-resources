@@ -80,6 +80,7 @@
 - [CSS Images](https://coding-artist.teachable.com/)
 - [Learn CSS Layouts](http://learnlayout.com/)
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ## Data Science
 
