@@ -12,6 +12,7 @@
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
+- [Git and GitHub](#Git-and-GitHub)
 - [Golang](#golang)
 - [GraphQL](#graphql)
 - [InfoSec](#infosec)
@@ -123,6 +124,13 @@
 - [Django Girls](https://tutorial.djangogirls.org/)
 - [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
+
+## Git and GitHub
+
+- [The official github guides](https://guides.github.com/)
+- [GitHub Training](https://www.youtube.com/user/GitHubGuides)
+- [Git and GitHub by freecodecamp.org](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+- [Get to know Git by scotch.io (Premium content)](https://scotch.io/courses/get-to-know-git)
 
 ## Golang
 
