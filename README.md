@@ -3,6 +3,36 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## Table of Contents
+
+  - [Agile](#agile)
+  - [Angular](#angular)
+  - [APEX](#apex)
+  - [CSS](#css)
+  - [Data Science](#data-science)
+  - [Developer Blog](#developer-blog)
+  - [Developer Stories](#developer-stories)
+  - [Django](#django)
+  - [Git and GitHub](#git-and-github)
+  - [Golang](#golang)
+  - [GraphQL](#graphql)
+  - [InfoSec](#infosec)
+  - [JavaScript](#javascript)
+  - [Markdown](#markdown)
+  - [Machine Learning](#machine-learning)
+  - [PHP](#php)
+  - [NodeJS](#nodejs)
+  - [Podcasts](#podcasts)
+  - [PLSQL](#plsql)
+  - [PWA](#pwa)
+  - [Python](#python)
+  - [ReactJS](#reactjs)
+  - [Ruby](#ruby)
+  - [Serverless](#serverless)
+  - [Sick Picks](#sick-picks)
+  - [Typescript](#typescript)
+  - [Vue](#vue)
+  - [Women in Tech](#women-in-tech)
+=======
 - [Agile](#agile)
 - [Angular](#angular)
 - [APEX](#apex)
@@ -36,6 +66,8 @@
 
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - [Martin Fowler's website](https://martinfowler.com/)
+- [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
+- [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
 
 ## Angular
 
