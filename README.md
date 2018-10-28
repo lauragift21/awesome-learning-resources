@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
-- [Awesome Resources RoadMap](#awesome-resources-roadmap)
-  - [Table of Contents](#table-of-contents)
   - [Agile](#agile)
   - [Angular](#angular)
   - [APEX](#apex)
@@ -34,6 +32,35 @@
   - [Typescript](#typescript)
   - [Vue](#vue)
   - [Women in Tech](#women-in-tech)
+=======
+- [Agile](#agile)
+- [Angular](#angular)
+- [APEX](#apex)
+- [CSS](#css)
+- [Data Science](#data-science)
+- [Developer Blog](#developer-blog)
+- [Developer Stories](#developer-stories)
+- [Django](#django)
+- [Git and GitHub](#git-and-github)
+- [Golang](#golang)
+- [GraphQL](#graphql)
+- [InfoSec](#infosec)
+- [JavaScript](#javascript)
+- [Markdown](#markdown)
+- [Machine Learning](#machine-learning)
+- [NodeJS](#nodejs)
+- [PHP](#php)
+- [Podcasts](#podcasts)
+- [PLSQL](#plsql)
+- [PWA](#pwa)
+- [Python](#python)
+- [ReactJS](#reactjs)
+- [Ruby](#ruby)
+- [Serverless](#serverless)
+- [Sick Picks](#sick-picks)
+- [Typescript](#typescript)
+- [Vue](#vue)
+- [Women in Tech](#women-in-tech)
 
 ## Agile
 
@@ -197,13 +224,6 @@
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
-## PHP
-
-- [7 days challenge](https://www.guru99.com/php-tutorials.html)
-- [The right way](https://phptherightway.com/)
-- [In site learn](https://www.learn-php.org/)
-- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
-
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
@@ -230,6 +250,15 @@
 - [Advanced Node.js(videos)](https://onedrive.live.com/?authkey=%21ANbPcuk7XxY1hPY&id=9F66D67EBC33737F%2133343&cid=9F66D67EBC33737F)
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
+- [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
+
+
+## PHP
+
+- [7 days challenge](https://www.guru99.com/php-tutorials.html)
+- [The right way](https://phptherightway.com/)
+- [In site learn](https://www.learn-php.org/)
+- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 
 ## Podcasts
 
@@ -244,8 +273,10 @@
 - [ForLoop Pod](https://podcast.forloop.africa/)
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
+- [Full Stack Radio](http://www.fullstackradio.com/)
 - [The Women in Tech Show](https://thewomenintechshow.com/)
 - [Front End Happy Hour](http://frontendhappyhour.com/)
+- [Laravel Podcast](http://www.laravelpodcast.com/)
 - [Pursuit Podcast](http://pursuit.tech/)
 - [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
@@ -278,6 +309,10 @@
 - [Alligator.IO React Page](https://alligator.io/react/)
 - [Egghead.io](https://egghead.io/browse/frameworks/react)
 - [Fronted Masters](https://frontendmasters.com/learn/react/)
+- [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
+- [fullstackreact](https://www.fullstackreact.com/)
+- [The Road to learn React](https://roadtoreact.com/)
+- [React Fundamentals by Tyler Mcginnis](https://tylermcginnis.com/courses/react-fundamentals/)
 
 ## Ruby
 
