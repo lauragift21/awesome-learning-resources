@@ -3,9 +3,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## Table of Contents
-
-- [Awesome Resources RoadMap](#awesome-resources-roadmap)
-- [Table of Contents](#table-of-contents)
 - [Agile](#agile)
 - [Angular](#angular)
 - [APEX](#apex)
@@ -21,8 +18,8 @@
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
-- [PHP](#php)
 - [NodeJS](#nodejs)
+- [PHP](#php)
 - [Podcasts](#podcasts)
 - [PLSQL](#plsql)
 - [PWA](#pwa)
@@ -195,13 +192,6 @@
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
-## PHP
-
-- [7 days challenge](https://www.guru99.com/php-tutorials.html)
-- [The right way](https://phptherightway.com/)
-- [In site learn](https://www.learn-php.org/)
-- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
-
 ## NodeJS
 
 - [Learn Node by Wes Bos](https://learnnode.com/)
@@ -229,6 +219,14 @@
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
+
+
+## PHP
+
+- [7 days challenge](https://www.guru99.com/php-tutorials.html)
+- [The right way](https://phptherightway.com/)
+- [In site learn](https://www.learn-php.org/)
+- [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 
 ## Podcasts
 
