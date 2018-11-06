@@ -284,6 +284,7 @@
 - [fullstackreact](https://www.fullstackreact.com/)
 - [The Road to learn React](https://roadtoreact.com/)
 - [React Fundamentals by Tyler Mcginnis](https://tylermcginnis.com/courses/react-fundamentals/)
+- [Hooks Guide](https://www.hooks.guide/)
 
 ## Ruby
 
