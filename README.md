@@ -113,6 +113,7 @@
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Todd Motto](https://toddmotto.com/)
 - [Zell's Blog](https://zellwk.com/blog)
+- [Dan Abramov Blog](https://overreacted.io/)
 
 ## Developer Stories
 
