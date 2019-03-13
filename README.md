@@ -17,12 +17,12 @@
 - [GraphQL](#graphql)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
-- [Markdown](#markdown)
 - [Machine Learning](#machine-learning)
+- [Markdown](#markdown)
 - [NodeJS](#nodejs)
 - [PHP](#php)
-- [Podcasts](#podcasts)
 - [PLSQL](#plsql)
+- [Podcasts](#podcasts)
 - [PWA](#pwa)
 - [Python](#python)
 - [ReactJS](#reactjs)
@@ -179,14 +179,6 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 
-## Markdown
-
-- [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
-- [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Markdown lessons](https://commonmark.org/help/tutorial/)
-- [Mastering Markdown](https://masteringmarkdown.com/)
-- [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
-
 ## Machine Learning
 
 - [Fast.ai](http://course.fast.ai/)
@@ -195,6 +187,14 @@
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+
+## Markdown
+
+- [Learn Markdown in Y minutes](https://learnxinyminutes.com/docs/markdown/)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Markdown lessons](https://commonmark.org/help/tutorial/)
+- [Mastering Markdown](https://masteringmarkdown.com/)
+- [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
 
 ## NodeJS
 
@@ -232,6 +232,12 @@
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 
+## PLSQL
+
+- [TechOnTheNet](https://www.techonthenet.com/oracle/index.php)
+- [Tutorials Point](https://www.tutorialspoint.com/plsql/)
+- [Oracle Database Development Guide](https://docs.oracle.com/database/121/ADFNS/toc.htm)
+
 ## Podcasts
 
 - [Behind the Tech](https://behindthetech.libsynpro.com/)
@@ -252,12 +258,6 @@
 - [Pursuit Podcast](http://pursuit.tech/)
 - [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
-
-## PLSQL
-
-- [TechOnTheNet](https://www.techonthenet.com/oracle/index.php)
-- [Tutorials Point](https://www.tutorialspoint.com/plsql/)
-- [Oracle Database Development Guide](https://docs.oracle.com/database/121/ADFNS/toc.htm)
 
 ## PWA
 
