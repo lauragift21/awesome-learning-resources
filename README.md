@@ -245,7 +245,7 @@
 - [Syntax](https://syntax.fm/)
 - [Software Engineering Daily](https://dev.to/sedaily)
 - [The Freecodecamp Podcast](https://freecodecamp.libsyn.com/)
-- [Indie Hackers](indiehackers.com/podcast)
+- [Indie Hackers](https://www.indiehackers.com/podcast)
 - [Rework](https://rework.fm/)
 - [Darknet Diaries](https://darknetdiaries.com)
 - [ForLoop Pod](https://podcast.forloop.africa/)
