@@ -248,6 +248,7 @@
 - [Indie Hackers](https://www.indiehackers.com/podcast)
 - [Rework](https://rework.fm/)
 - [Darknet Diaries](https://darknetdiaries.com)
+- [Developer Tea](https://spec.fm/podcasts/developer-tea)
 - [ForLoop Pod](https://podcast.forloop.africa/)
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
@@ -255,9 +256,13 @@
 - [The Women in Tech Show](https://thewomenintechshow.com/)
 - [Front End Happy Hour](http://frontendhappyhour.com/)
 - [Laravel Podcast](http://www.laravelpodcast.com/)
+- [Laracast Snippet](https://laracasts.com/podcast)
 - [Pursuit Podcast](http://pursuit.tech/)
 - [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
+- [Masters Of Scale](https://mastersofscale.com)
+- [Shop talk show](https://shoptalkshow.com)
+
 
 ## PWA
 
