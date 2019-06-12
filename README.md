@@ -251,7 +251,6 @@
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 - [ForLoop Pod](https://podcast.forloop.africa/)
 - [Soft Skills Engineering](https://softskills.audio/)
-- [Shop Talk Show]('https://shoptalkshow.com')
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
 - [Full Stack Radio](http://www.fullstackradio.com/)
 - [The Women in Tech Show](https://thewomenintechshow.com/)
@@ -262,6 +261,8 @@
 - [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
 - [Masters Of Scale](https://mastersofscale.com)
+- [Shop talk show](https://shoptalkshow.com)
+
 
 ## PWA
 
