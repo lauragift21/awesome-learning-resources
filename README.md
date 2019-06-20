@@ -35,7 +35,7 @@
 
 ## Agile
 
-- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 - [Martin Fowler's website](https://martinfowler.com/)
 - [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
@@ -58,7 +58,7 @@
 - [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
 - [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
 - [APEX Office Hours](https://asktom.oracle.com/pls/apex/f?p=100:551:::NO:551:P551_CLASS_ID:744:)
-- [Maxime Tremblay's Blog](http://max-tremblay.blogspot.com/)
+- [Maxime Tremblay's Blog](https://max-tremblay.blogspot.com/)
 - [Explorer UK](https://explorer.uk.com/blog/)
 - [Talk APEX](https://www.talkapex.com/)
 - [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
@@ -80,21 +80,21 @@
 - [CSS Flexbox by Wes Bos](https://flexbox.io/)
 - [Alligator.IO CSS Page](https://alligator.io/css)
 - [CSS Images](https://coding-artist.teachable.com/)
-- [Learn CSS Layouts](http://learnlayout.com/)
+- [Learn CSS Layouts](https://learnlayout.com/)
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ## Data Science
 
 - [DataCamp](https://www.datacamp.com/)
-- [New Coder](http://newcoder.io/)
+- [New Coder](https://newcoder.io/)
 - [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
 
 ## Developer Blog
 
 - [Adebiyi Adedotun](https://medium.com/@adebiyiadedotun9/)
-- [Alistapart](http://alistapart.com)
+- [Alistapart](https://alistapart.com)
 - [Assortment.io](https://assortment.io/)
 - [Ayo Isaiah](https://freshman.tech/)
 - [Backticks & Tildes](https://medium.com/backticks-tildes)
@@ -106,7 +106,7 @@
 - [Gift Egwuenu](https://giftegwuenu.com)
 - [Jake Archibald](https://jakearchibald.com/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
-- [Mark Dotto Blog](http://markdotto.com)
+- [Mark Dotto Blog](https://markdotto.com)
 - [Martin Fowler](https://martinfowler.com/)
 - [Raymond Camden](https://raymondcamden.com)
 - [Shay Howe](https://learn.shayhowe.com/)
@@ -139,8 +139,8 @@
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
-- [Go for Javascript Developers](http://www.pazams.com/Go-for-Javascript-Developers/)
-- [Golang Tutorials](http://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
+- [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
+- [Golang Tutorials](https://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
 
 ## GraphQL
 
@@ -181,12 +181,12 @@
 
 ## Machine Learning
 
-- [Fast.ai](http://course.fast.ai/)
+- [Fast.ai](https://course.fast.ai/)
 - [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning)
 - [Kaggle](https://www.kaggle.com/)
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
-- [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+- [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)
 
 ## Markdown
 
@@ -202,7 +202,7 @@
 - [Alligator.IO Node Page](https://alligator.io/nodejs/)
 - [The Art of Node](https://github.com/maxogden/art-of-node)
 - [You don't know Node.js](https://github.com/azat-co/you-dont-know-node)
-- [The Node Way](http://thenodeway.io/)
+- [The Node Way](https://thenodeway.io/)
 - [Teach Yourself Node.js In Ten Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
 - [Learn the Node.js Runtime Itself](https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69)
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines)
@@ -210,7 +210,7 @@
 - [Using npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [How to Get Node.js Logging Right](https://blog.risingstack.com/node-js-logging-tutorial/)
 - [Node.js Testing with Jest](https://github.com/facebook/jest)
-- [Node.js Testing with Mocha](http://mochajs.org/)
+- [Node.js Testing with Mocha](https://mochajs.org/)
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Error Handling Best Practices in Node.js](https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
 - [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
@@ -254,10 +254,10 @@
 - [Free Code Camp](https://freecodecamp.libsyn.com/)
 - [Full Stack Radio](http://www.fullstackradio.com/)
 - [The Women in Tech Show](https://thewomenintechshow.com/)
-- [Front End Happy Hour](http://frontendhappyhour.com/)
-- [Laravel Podcast](http://www.laravelpodcast.com/)
+- [Front End Happy Hour](https://frontendhappyhour.com/)
+- [Laravel Podcast](https://www.laravelpodcast.com/)
 - [Laracast Snippet](https://laracasts.com/podcast)
-- [Pursuit Podcast](http://pursuit.tech/)
+- [Pursuit Podcast](https://pursuit.tech/)
 - [Battle Tactics for Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics/)
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
 - [Masters Of Scale](https://mastersofscale.com)
@@ -275,9 +275,9 @@
 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
-- [Think Python 2nd Edition](http://greenteapress.com/wp/think-python-2e/)
-- [Python Tips](http://book.pythontips.com/en/latest/index.html)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/)
+- [Python Tips](https://book.pythontips.com/en/latest/index.html)
 
 ## ReactJS
 
@@ -301,13 +301,13 @@
 ## Serverless
 
 - [Serverless](https://serverless.com/)
-- [The Power of Serverless](http://thepowerofserverless.info/resources.html)
+- [The Power of Serverless](https://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 - [A Cloud Guru](https://acloud.guru/courses)
 
 ## Sick Picks
 
-- [100 Tips to Becoming a better Developer](http://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
+- [100 Tips to Becoming a better Developer](https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
 - [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
 - [Super Cool Illustrations](https://undraw.co/illustrations)
 - [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
@@ -319,7 +319,7 @@
 - [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [UiGradient](https://uigradients.com)
 - [FlatUIColor Picker](http://www.flatuicolorpicker.com/)
-- [The Stocks](http://thestocks.im/)
+- [The Stocks](https://thestocks.im/)
 - [Front-End Developer Handbook 2018](https://frontendmasters.gitbooks.io)
 - [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
 - [Array Explorer](https://sdras.github.io/array-explorer/)
