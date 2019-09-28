@@ -15,6 +15,7 @@
 - [Git and GitHub](#git-and-github)
 - [Golang](#golang)
 - [GraphQL](#graphql)
+- [Hugo](#hugo)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
 - [Machine Learning](#machine-learning)
@@ -152,6 +153,9 @@
 - [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
 - [Authentication and Authorization in GraphQL](https://speakerdeck.com/unicodeveloper/authentication-and-authorization-in-graphql?slide=6)
 - [HowToGraphQL](https://www.howtographql.com)
+
+## Hugo
+- [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## InfoSec
 
