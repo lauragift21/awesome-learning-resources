@@ -28,6 +28,7 @@
 - [Python](#python)
 - [ReactJS](#reactjs)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
 - [Typescript](#typescript)
@@ -301,6 +302,11 @@
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
+
+## Rust
+
+- [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+- [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
 
 ## Serverless
 
