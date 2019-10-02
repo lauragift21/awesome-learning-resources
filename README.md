@@ -284,6 +284,7 @@
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/)
 - [Python Tips](https://book.pythontips.com/en/latest/index.html)
+- [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
 
 ## ReactJS
 
