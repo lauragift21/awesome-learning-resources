@@ -305,6 +305,7 @@
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
+- [App Academy Open](https://open.appacademy.io/)
 
 ## Rust
 
