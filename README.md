@@ -93,6 +93,7 @@
 - [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
+- [Alison](https://alison.com/courses/data-science)
 
 ## Developer Blog
 
