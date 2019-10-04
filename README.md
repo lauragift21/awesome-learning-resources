@@ -85,6 +85,7 @@
 - [Learn CSS Layouts](https://learnlayout.com/)
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Grid](http://cssgridgarden.com/)
 
 ## Data Science
 
@@ -186,6 +187,7 @@
 - [Javascript 30 by Wes Bos](https://javascript30.com/)
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
+- [JavaScript.info](http://javascript.info/)
 
 ## Machine Learning
 
