@@ -124,6 +124,7 @@
 - [My #100DaysofCode Experience — The Good, The Bad and The Ugly](https://code.likeagirl.io/my-100daysofcode-experience-the-good-the-bad-and-the-ugly-ee1263131f15)
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
+- [How to relocate to Germany: IT Specialists sharing their experience](https://zerotoonesearch.com/relocation-to-germany-success-stories/)
 
 ## Django
 
