@@ -173,6 +173,7 @@
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [CodeSchool](https://www.codeschool.com/learn/javascript)
 - [Egghead](https://egghead.io)
 - [Ally.io](https://allyjs.io/)
@@ -303,6 +304,8 @@
 - [The Road to learn React](https://roadtoreact.com/)
 - [React Fundamentals by Tyler Mcginnis](https://tylermcginnis.com/courses/react-fundamentals/)
 - [Hooks Guide](https://www.hooks.guide/)
+- [Overreacted by Dan Abramov](https://overreacted.io/)
+
 
 ## Ruby
 
