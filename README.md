@@ -32,6 +32,7 @@
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
 - [Typescript](#typescript)
+- [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
 
@@ -364,6 +365,10 @@
 - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
+
+## Voice
+- [Alexa Skills Kit Tutorials](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/tutorials)
+- [Build Actions for the Google Assistant](https://codelabs.developers.google.com/codelabs/actions-1/)
 
 ## Vue
 
