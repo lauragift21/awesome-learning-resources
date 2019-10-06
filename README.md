@@ -8,7 +8,9 @@
 - [Angular](#angular)
 - [APEX](#apex)
 - [CSS](#css)
+- [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
+- [Deep Learning](#deep-learning)
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
@@ -87,6 +89,10 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid](http://cssgridgarden.com/)
 
+## Computer Vision
+
+- [Udacity Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+
 ## Data Science
 
 - [DataCamp](https://www.datacamp.com/)
@@ -95,6 +101,11 @@
 - [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
 - [Alison](https://alison.com/courses/data-science)
+
+## Deep Learning
+
+- [Udacity Intro to Tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Udacity Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Developer Blog
 
