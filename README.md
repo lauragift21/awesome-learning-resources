@@ -121,6 +121,7 @@
 - [Creative Bloq](https://www.creativebloq.com/)
 - [David Heinemeier Hansson (DHH)](https://medium.com/@dhh)
 - [David Walsh](https://davidwalsh.name)
+- [Flavio Copes](https://flaviocopes.com/)
 - [Gift Egwuenu](https://giftegwuenu.com)
 - [Jake Archibald](https://jakearchibald.com/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
