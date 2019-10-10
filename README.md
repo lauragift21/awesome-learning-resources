@@ -157,6 +157,7 @@
 - [Django Girls](https://tutorial.djangogirls.org/)
 - [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
+- [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
 
 ## Git and GitHub
 
