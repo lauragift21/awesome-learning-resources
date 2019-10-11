@@ -15,6 +15,7 @@
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
+- [Flask](#flask)
 - [Git and GitHub](#git-and-github)
 - [Golang](#golang)
 - [GraphQL](#graphql)
@@ -157,6 +158,11 @@
 - [Django Girls](https://tutorial.djangogirls.org/)
 - [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
+
+## Flask
+- [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+- [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
+- [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
 
 ## Git and GitHub
 
