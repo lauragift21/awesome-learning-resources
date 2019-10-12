@@ -101,6 +101,8 @@
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid](http://cssgridgarden.com/)
+- [CSS Flexbox - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
+- [CSS Grid - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
 
 ## Computer Vision
 
