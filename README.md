@@ -413,6 +413,9 @@
 - [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 - [Vue.js Cookbook](https://vuejs.org/v2/cookbook/)
 - [From Zero to Hero with Vue - But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
+- [Vue Mastery - Multiple Free Classes](https://www.vuemastery.com/)
+- [Laravel Cast - Learn Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+- [Vue Cheatsheet](https://marozed.ma/vue-cheatsheet/)
 
 ## Women in Tech
 
