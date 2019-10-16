@@ -82,7 +82,7 @@
 - [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series)
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 
-## C#
+## C/#
 
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
