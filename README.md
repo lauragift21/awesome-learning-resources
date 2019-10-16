@@ -8,6 +8,7 @@
 - [Angular](#angular)
 - [APEX](#apex)
 - [Bootstrap](#bootstrap)
+- [C#] (#c#)
 - [CSS](#css)
 - [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
@@ -77,9 +78,16 @@
 - [W3Schools](https://www.w3schools.com/bootstrap4/)
 - [Website Setup](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
 - [Bootstrapious](https://bootstrapious.com/blog)
-- [Tutuorials Point](https://www.tutorialspoint.com/bootstrap/index.htm)
+- [Tutorials Point](https://www.tutorialspoint.com/bootstrap/index.htm)
 - [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series)
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
+
+## C#
+
+- [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
+- [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
+- [Tutorials Point](https://www.tutorialspoint.com/csharp)
+- [Zetcode](http://zetcode.com/lang/csharp/)
 
 ## CSS
 
