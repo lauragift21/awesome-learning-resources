@@ -8,7 +8,7 @@
 - [Angular](#angular)
 - [APEX](#apex)
 - [Bootstrap](#bootstrap)
-- [C#] (#c#)
+- [C#](c/#)
 - [CSS](#css)
 - [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
