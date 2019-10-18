@@ -271,6 +271,7 @@
 - [The right way](https://phptherightway.com/)
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
+- [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 
 ## PLSQL
 
