@@ -262,7 +262,7 @@
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
-
+- [Awesome Node.JS (A-Z) Youtube Lecture](https://www.youtube.com/watch?v=rSHL_lYY_Xc&list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR)
 
 ## PHP
 
