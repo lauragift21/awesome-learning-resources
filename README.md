@@ -15,6 +15,7 @@
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
+- [Flutter](#flutter)
 - [Git and GitHub](#git-and-github)
 - [Golang](#golang)
 - [GraphQL](#graphql)
@@ -160,6 +161,13 @@
 - [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
+
+## Flutter
+- [Flutter Course - Full Tutorial for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+- [Flutter: Learning Resources for Beginners](https://dev.to/nitya/flutter-learning-resources-for-beginners-5719)
+- [Flutter Tutorial by The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU)
+- [Example Flutter theme](https://startflutter.com/)
+- [Example Flutter UI](https://fluttersourcecode.com/)
 
 ## Git and GitHub
 
