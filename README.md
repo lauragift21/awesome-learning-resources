@@ -59,6 +59,7 @@
 - [Angular2+ Version Upgrade Guide](https://update.angular.io/)
 - [AngularJS to Angular2+ Migration Guide](https://angular.io/guide/upgrade)
 - [Angular in Depth](https://indepth.dev/angular/)
+- [NGRX](https://ngrx.io/)
 
 ## APEX
 
