@@ -225,6 +225,7 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 - [JavaScript.info](http://javascript.info/)
+- [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 
 ## Machine Learning
 
