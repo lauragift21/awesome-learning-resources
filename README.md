@@ -16,6 +16,7 @@
 - [Developer Stories](#developer-stories)
 - [Django](#django)
 - [Flask](#flask)
+- [Flutter](#flutter)
 - [Git and GitHub](#git-and-github)
 - [Golang](#golang)
 - [GraphQL](#graphql)
@@ -59,6 +60,7 @@
 - [Angular2+ Version Upgrade Guide](https://update.angular.io/)
 - [AngularJS to Angular2+ Migration Guide](https://angular.io/guide/upgrade)
 - [Angular in Depth](https://indepth.dev/angular/)
+- [NGRX](https://ngrx.io/)
 
 ## APEX
 
@@ -102,6 +104,8 @@
 - [Learn HTML & CSS](https://learn.shayhowe.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid](http://cssgridgarden.com/)
+- [CSS Flexbox - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
+- [CSS Grid - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
 
 ## Computer Vision
 
@@ -158,6 +162,14 @@
 - [Django Girls](https://tutorial.djangogirls.org/)
 - [Official Django Tutorials](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
+- [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
+
+## Flutter
+- [Flutter Course - Full Tutorial for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+- [Flutter: Learning Resources for Beginners](https://dev.to/nitya/flutter-learning-resources-for-beginners-5719)
+- [Flutter Tutorial by The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU)
+- [Example Flutter theme](https://startflutter.com/)
+- [Example Flutter UI](https://fluttersourcecode.com/)
 
 ## Flask
 - [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
@@ -206,6 +218,7 @@
 
 - [FreeCodeCamp](https://freecodecamp.com)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [The Coding Train](https://www.youtube.com/user/shiffman/videos)
 - [CodeSchool](https://www.codeschool.com/learn/javascript)
 - [Egghead](https://egghead.io)
 - [Ally.io](https://allyjs.io/)
@@ -222,6 +235,7 @@
 - [Alligator.io Javascript page](https://alligator.io/js/)
 - [JavaScript.info](http://javascript.info/)
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
+- [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 
 ## Machine Learning
 
@@ -269,6 +283,7 @@
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
 - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
+- [Awesome Node.JS (A-Z) Youtube Lecture](https://www.youtube.com/watch?v=rSHL_lYY_Xc&list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR)
 
 ## PHP
 
@@ -276,6 +291,7 @@
 - [The right way](https://phptherightway.com/)
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
+- [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 
 ## PLSQL
 
@@ -307,6 +323,7 @@
 - [Women in Tech](http://podcast.womenintechshow.com/episodes)
 - [Masters Of Scale](https://mastersofscale.com)
 - [Shop talk show](https://shoptalkshow.com)
+- [Hanselminutes](https://www.hanselminutes.com/)- Fresh Tech Talk from Fresh Faces
 
 
 ## PWA
@@ -325,6 +342,8 @@
 - [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/)
 - [Python Tips](https://book.pythontips.com/en/latest/index.html)
 - [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
+- [CodingBat - Python](https://codingbat.com/python)
+
 
 ## ReactJS
 
@@ -423,6 +442,9 @@
 - [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 - [Vue.js Cookbook](https://vuejs.org/v2/cookbook/)
 - [From Zero to Hero with Vue - But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
+- [Vue Mastery - Multiple Free Classes](https://www.vuemastery.com/)
+- [Laravel Cast - Learn Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+- [Vue Cheatsheet](https://marozed.ma/vue-cheatsheet/)
 
 ## Women in Tech
 
