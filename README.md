@@ -226,6 +226,9 @@
 - [Alligator.io Javascript page](https://alligator.io/js/)
 - [JavaScript.info](http://javascript.info/)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
+- [Dev.to JavaScript](https://dev.to/t/javascript)
+- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
 
 ## Machine Learning
 
