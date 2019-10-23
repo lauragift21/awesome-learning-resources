@@ -211,6 +211,7 @@
 
 - [FreeCodeCamp](https://freecodecamp.com)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [The Coding Train](https://www.youtube.com/user/shiffman/videos)
 - [CodeSchool](https://www.codeschool.com/learn/javascript)
 - [Egghead](https://egghead.io)
 - [Ally.io](https://allyjs.io/)
