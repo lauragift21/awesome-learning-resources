@@ -15,6 +15,7 @@
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
+- [Flask](#flask)
 - [Flutter](#flutter)
 - [Git and GitHub](#git-and-github)
 - [Golang](#golang)
@@ -170,6 +171,11 @@
 - [Example Flutter theme](https://startflutter.com/)
 - [Example Flutter UI](https://fluttersourcecode.com/)
 
+## Flask
+- [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+- [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
+- [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
+
 ## Git and GitHub
 
 - [The official github guides](https://guides.github.com/)
@@ -195,6 +201,7 @@
 - [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
 - [Authentication and Authorization in GraphQL](https://speakerdeck.com/unicodeveloper/authentication-and-authorization-in-graphql?slide=6)
 - [HowToGraphQL](https://www.howtographql.com)
+- [GraphQL with React Tutorial](https://www.thenetninja.co.uk/courses/graphql-node-react-tutorial)
 
 ## Hugo
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
@@ -227,6 +234,7 @@
 - [ES6 for Everyone by Wes Bos](https://es6.io/)
 - [Alligator.io Javascript page](https://alligator.io/js/)
 - [JavaScript.info](http://javascript.info/)
+- [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 
 ## Machine Learning
@@ -274,6 +282,7 @@
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 - [Tutorialspoint](https://www.tutorialspoint.com/nodejs/)
 - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
+- [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
 - [Awesome Node.JS (A-Z) Youtube Lecture](https://www.youtube.com/watch?v=rSHL_lYY_Xc&list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR)
 
 ## PHP
@@ -323,6 +332,7 @@
 - [A Beginner's Guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
 - [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
+- [PWA (Progressive Web App) Tutorial](https://www.thenetninja.co.uk/courses/progressive-web-app-tutorial)
 
 ## Python
 
@@ -348,6 +358,9 @@
 - [React Fundamentals by Tyler Mcginnis](https://tylermcginnis.com/courses/react-fundamentals/)
 - [Hooks Guide](https://www.hooks.guide/)
 - [Overreacted by Dan Abramov](https://overreacted.io/)
+- [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
+- [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
+- [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
 
 
 ## Ruby
@@ -368,6 +381,7 @@
 - [The Power of Serverless](https://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 - [A Cloud Guru](https://acloud.guru/courses)
+- [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
 
 ## Sick Picks
 
