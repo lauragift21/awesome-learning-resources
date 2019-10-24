@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Agile](#agile)
-- [Android] (#android)
+- [Android](#android)
 - [Angular](#angular)
 - [APEX](#apex)
 - [Bootstrap](#bootstrap)
