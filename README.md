@@ -343,6 +343,8 @@
 - [Python Tips](https://book.pythontips.com/en/latest/index.html)
 - [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
 - [CodingBat - Python](https://codingbat.com/python)
+- [Python for Fun](http://www.openbookproject.net/py4fun/)
+- [A Byte of Python](https://python.swaroopch.com/)
 
 
 ## ReactJS
