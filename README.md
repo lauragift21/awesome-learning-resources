@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Agile](#agile)
+- [Android] (#android)
 - [Angular](#angular)
 - [APEX](#apex)
 - [Bootstrap](#bootstrap)
@@ -48,6 +49,16 @@
 - [Martin Fowler's website](https://martinfowler.com/)
 - [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
+
+## Android
+- [What is Android](https://www.android.com/what-is-android/)
+- [Android 10](https://www.android.com/android-10/)
+- [Android Open Source Project](https://source.android.com/)
+- [Getting Started and be an Android Developer](https://developer.android.com/guide/slices/getting-started)
+- [Introduction](https://developer.android.com/guide)
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
+- [Whats New? AndroidX](https://developer.android.com/jetpack/androidx)
+- [Migrate to AndroidX](https://developer.android.com/jetpack/androidx/migrate)
 
 ## Angular
 
