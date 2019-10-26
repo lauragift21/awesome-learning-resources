@@ -236,6 +236,7 @@
 - [JavaScript.info](http://javascript.info/)
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
+-[JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 
 ## Machine Learning
 
