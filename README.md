@@ -41,6 +41,7 @@
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+- [TensorFlow] (#TensorFlow)
 
 ## Agile
 
@@ -456,3 +457,6 @@
 - [Ladies of Code](https://www.ladiesofcode.com/)
 - [Women in Tech](https://www.womenintech.co.uk/)
 - [Tech Ladies](https://www.hiretechladies.com/)
+
+## TensorFlow
+- [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
