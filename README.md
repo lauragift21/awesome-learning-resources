@@ -345,6 +345,7 @@
 - [CodingBat - Python](https://codingbat.com/python)
 - [Python for Fun](http://www.openbookproject.net/py4fun/)
 - [A Byte of Python](https://python.swaroopch.com/)
+- [Learn Python 3 By Code Academy](https://www.codecademy.com/learn/learn-python-3)
 
 
 ## ReactJS
