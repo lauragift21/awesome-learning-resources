@@ -149,6 +149,7 @@
 - [Todd Motto](https://toddmotto.com/)
 - [Zell's Blog](https://zellwk.com/blog)
 - [Dan Abramov Blog](https://overreacted.io/)
+- [Web Development Reading List](https://wdrl.info)
 
 ## Developer Stories
 
