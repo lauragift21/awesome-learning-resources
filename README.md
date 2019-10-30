@@ -464,3 +464,4 @@
 - [Ladies of Code](https://www.ladiesofcode.com/)
 - [Women in Tech](https://www.womenintech.co.uk/)
 - [Tech Ladies](https://www.hiretechladies.com/)
+- [Women TechMakers](https://www.womentechmakers.com/)
