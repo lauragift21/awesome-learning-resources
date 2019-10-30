@@ -371,6 +371,8 @@
 - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
 - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
 - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
+- [Pure React](https://www.daveceddia.com/pure-react/)
+- [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
 
 
 ## Ruby
