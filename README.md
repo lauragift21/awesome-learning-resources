@@ -331,6 +331,7 @@
 - [Masters Of Scale](https://mastersofscale.com)
 - [Shop talk show](https://shoptalkshow.com)
 - [Hanselminutes](https://www.hanselminutes.com/)- Fresh Tech Talk from Fresh Faces
+- [This Week In Tech](https://twit.tv/shows/this-week-in-tech)
 
 
 ## PWA
