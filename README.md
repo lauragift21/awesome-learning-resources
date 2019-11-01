@@ -177,6 +177,7 @@
 - [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 - [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
 - [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
+- [The Flask Mega Tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ## Git and GitHub
 
