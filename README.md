@@ -107,6 +107,8 @@
 - [CSS Flexbox - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
 - [CSS Grid - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
 - [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Diner](https://flukeout.github.io/)
 
 
 ## Computer Vision
