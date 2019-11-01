@@ -106,6 +106,8 @@
 - [CSS Grid](http://cssgridgarden.com/)
 - [CSS Flexbox - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
 - [CSS Grid - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
+- [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
+
 
 ## Computer Vision
 
@@ -151,6 +153,7 @@
 - [Todd Motto](https://toddmotto.com/)
 - [Zell's Blog](https://zellwk.com/blog)
 - [Dan Abramov Blog](https://overreacted.io/)
+- [Web Development Reading List](https://wdrl.info)
 
 ## Developer Stories
 
@@ -177,6 +180,7 @@
 - [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 - [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
 - [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
+- [The Flask Mega Tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ## Git and GitHub
 
@@ -239,6 +243,8 @@
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+
 
 ## Machine Learning
 
@@ -332,6 +338,7 @@
 - [Masters Of Scale](https://mastersofscale.com)
 - [Shop talk show](https://shoptalkshow.com)
 - [Hanselminutes](https://www.hanselminutes.com/)- Fresh Tech Talk from Fresh Faces
+- [This Week In Tech](https://twit.tv/shows/this-week-in-tech)
 
 
 ## PWA
@@ -374,7 +381,7 @@
 - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
 - [Pure React](https://www.daveceddia.com/pure-react/)
 - [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
-
+- [React Enlightenment](https://www.reactenlightenment.com)
 
 ## Ruby
 
