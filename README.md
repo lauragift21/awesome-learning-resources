@@ -377,7 +377,7 @@
 - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
 - [Pure React](https://www.daveceddia.com/pure-react/)
 - [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
-
+- [React Enlightenment](https://www.reactenlightenment.com)
 
 ## Ruby
 
