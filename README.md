@@ -238,6 +238,8 @@
 - [JavaScript.info](http://javascript.info/)
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+
 
 ## Machine Learning
 
@@ -249,7 +251,7 @@
 - [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
-## Malware Analysis 
+## Malware Analysis
 
 - [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033)
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=pd_sbs_14_t_0/136-7474712-7650215?_encoding=UTF8&pd_rd_i=1593272901&pd_rd_r=f8f8d7e2-f2b5-4ac7-91ce-e0355affe59a&pd_rd_w=a0873&pd_rd_wg=u2f3a&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=6Q3PYAT9CC9304D9BFY4&psc=1&refRID=6Q3PYAT9CC9304D9BFY4)
