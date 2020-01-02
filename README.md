@@ -190,6 +190,8 @@
 - [GitHub Training](https://www.youtube.com/user/GitHubGuides)
 - [Git and GitHub by freecodecamp.org](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Get to know Git by scotch.io (Premium content)](https://scotch.io/courses/get-to-know-git)
+- [Git and GitHub for beginners (Traversy Media)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Git and GitHub commands (a list)](https://github.com/joshnh/Git-Commands)
 
 ## Golang
 
@@ -269,6 +271,7 @@
 - [Markdown lessons](https://commonmark.org/help/tutorial/)
 - [Mastering Markdown](https://masteringmarkdown.com/)
 - [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
+- [Make a README](https://www.makeareadme.com/)
 
 ## NodeJS
 
