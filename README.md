@@ -36,6 +36,7 @@
 - [Rust](#rust)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
+- [Svelte](#svelte)
 - [Typescript](#typescript)
 - [Twilio](#twilio)
 - [Voice](#voice)
@@ -432,6 +433,14 @@
 - [Refactoring, write awesome code](https://sourcemaking.com/refactoring)
 - [Remove Background from Images](https://www.remove.bg/)
 - [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
+
+## Svelte
+- [Svelte and Sapper in Action (Book)](https://www.manning.com/books/svelte-and-sapper-in-action)
+- [The Svelte Handbook (Book)](https://flaviocopes.com/page/ebooks/)
+- [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
+- [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
+- [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno)
+- [Simplify Web App Development with Svelte](https://www.youtube.com/watch?v=PXOE7oZyaBA)
 
 ## Typescript
 
