@@ -488,4 +488,4 @@
 - [Women in Tech](https://www.womenintech.co.uk/)
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
-- [Ladybug Podcast - Women in Tech] (https://ladybug.dev/)
+- [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
