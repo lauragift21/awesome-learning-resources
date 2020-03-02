@@ -387,6 +387,7 @@
 - [Pure React](https://www.daveceddia.com/pure-react/)
 - [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
 - [React Enlightenment](https://www.reactenlightenment.com)
+- [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 
 ## Ruby
 
