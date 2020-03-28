@@ -414,6 +414,7 @@
 - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
 - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
 - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
+- [React Tutorials by React Community](http://reactjs.co/)
 - [Pure React](https://www.daveceddia.com/pure-react/)
 - [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
 - [React Enlightenment](https://www.reactenlightenment.com)
