@@ -115,6 +115,7 @@
 ## Computer Vision
 
 - [Udacity Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+- [A Gentle Introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
 - [Coursera Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
 
 ## Data Science
