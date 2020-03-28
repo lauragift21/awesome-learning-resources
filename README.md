@@ -5,9 +5,11 @@
 ## Table of Contents
 
 - [Agile](#agile)
+- [Android](#android)
 - [Angular](#angular)
 - [APEX](#apex)
 - [Bootstrap](#bootstrap)
+- [C#](#c)
 - [CSS](#css)
 - [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
@@ -36,11 +38,13 @@
 - [Rust](#rust)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
+- [Svelte](#svelte)
 - [Typescript](#typescript)
 - [Twilio](#twilio)
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+- [TensorFlow] (#TensorFlow)
 
 ## Agile
 
@@ -48,6 +52,16 @@
 - [Martin Fowler's website](https://martinfowler.com/)
 - [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
+
+## Android
+- [What is Android](https://www.android.com/what-is-android/)
+- [Android 10](https://www.android.com/android-10/)
+- [Android Open Source Project](https://source.android.com/)
+- [Getting Started and be an Android Developer](https://developer.android.com/guide/slices/getting-started)
+- [Introduction](https://developer.android.com/guide)
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
+- [Whats New? AndroidX](https://developer.android.com/jetpack/androidx)
+- [Migrate to AndroidX](https://developer.android.com/jetpack/androidx/migrate)
 
 ## Angular
 
@@ -80,9 +94,16 @@
 - [W3Schools](https://www.w3schools.com/bootstrap4/)
 - [Website Setup](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
 - [Bootstrapious](https://bootstrapious.com/blog)
-- [Tutuorials Point](https://www.tutorialspoint.com/bootstrap/index.htm)
+- [Tutorials Point](https://www.tutorialspoint.com/bootstrap/index.htm)
 - [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series)
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
+
+## C#
+
+- [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
+- [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
+- [Tutorials Point](https://www.tutorialspoint.com/csharp)
+- [Zetcode](http://zetcode.com/lang/csharp/)
 
 ## CSS
 
@@ -106,10 +127,15 @@
 - [CSS Grid](http://cssgridgarden.com/)
 - [CSS Flexbox - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
 - [CSS Grid - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
+- [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Diner](https://flukeout.github.io/)
+
 
 ## Computer Vision
 
 - [Udacity Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+- [A Gentle Introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
 - [Coursera Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
 
 ## Data Science
@@ -151,6 +177,7 @@
 - [Todd Motto](https://toddmotto.com/)
 - [Zell's Blog](https://zellwk.com/blog)
 - [Dan Abramov Blog](https://overreacted.io/)
+- [Web Development Reading List](https://wdrl.info)
 
 ## Developer Stories
 
@@ -177,6 +204,7 @@
 - [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 - [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
 - [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
+- [The Flask Mega Tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ## Git and GitHub
 
@@ -184,6 +212,8 @@
 - [GitHub Training](https://www.youtube.com/user/GitHubGuides)
 - [Git and GitHub by freecodecamp.org](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Get to know Git by scotch.io (Premium content)](https://scotch.io/courses/get-to-know-git)
+- [Git and GitHub for beginners (Traversy Media)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Git and GitHub commands (a list)](https://github.com/joshnh/Git-Commands)
 
 ## Golang
 
@@ -216,6 +246,11 @@
 - [Reverse Engineering 101](https://securedorg.github.io/RE101/)
 - [Reverse Engineering 102](https://securedorg.github.io/RE102/)
 
+## Ionic
+- [Ionic Tutorials & Courses](https://hackr.io/tutorials/learn-ionic)
+- [Learn Ionic Fast](https://ionicacademy.com/)
+- [Ionic Tutorial](https://www.tutorialspoint.com/ionic/index.htm)
+
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
@@ -239,6 +274,10 @@
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 - [CSX Structured JavaScript Learning Journey - Codesmith](https://csx.codesmith.io/)
+- [Dev.to JavaScript](https://dev.to/t/javascript)
+- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ## Machine Learning
 
@@ -262,6 +301,7 @@
 - [Markdown lessons](https://commonmark.org/help/tutorial/)
 - [Mastering Markdown](https://masteringmarkdown.com/)
 - [Markdown Cheat Sheet](https://markdownguide.org/cheat-sheet)
+- [Make a README](https://www.makeareadme.com/)
 
 ## NodeJS
 
@@ -299,6 +339,7 @@
 - [The right way](https://phptherightway.com/)
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
+- [Laravel framework](https://laravel.com)
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 
 ## PLSQL
@@ -332,6 +373,7 @@
 - [Masters Of Scale](https://mastersofscale.com)
 - [Shop talk show](https://shoptalkshow.com)
 - [Hanselminutes](https://www.hanselminutes.com/)- Fresh Tech Talk from Fresh Faces
+- [This Week In Tech](https://twit.tv/shows/this-week-in-tech)
 
 
 ## PWA
@@ -372,7 +414,11 @@
 - [React & Firebase](https://www.thenetninja.co.uk/courses/react-redux-firebase-app-tutorial)
 - [React Hooks & Context Tutorial](https://www.thenetninja.co.uk/courses/react-context-hooks-tutorial)
 - [React & Redux Complete Tutorial](https://www.thenetninja.co.uk/courses/react-redux-complete-tutorial)
-
+- [React Tutorials by React Community](http://reactjs.co/)
+- [Pure React](https://www.daveceddia.com/pure-react/)
+- [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
+- [React Enlightenment](https://www.reactenlightenment.com)
+- [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 
 ## Ruby
 
@@ -423,6 +469,14 @@
 - [Remove Background from Images](https://www.remove.bg/)
 - [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
 
+## Svelte
+- [Svelte and Sapper in Action (Book)](https://www.manning.com/books/svelte-and-sapper-in-action)
+- [The Svelte Handbook (Book)](https://flaviocopes.com/page/ebooks/)
+- [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
+- [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
+- [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno)
+- [Simplify Web App Development with Svelte](https://www.youtube.com/watch?v=PXOE7oZyaBA)
+
 ## Typescript
 
 - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
@@ -433,9 +487,9 @@
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
 
-## Twilio
 
-- [Twilio Quest](https://www.twilio.com/quest)
+## TensorFlow
+- [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Voice
 
@@ -465,3 +519,6 @@
 - [Ladies of Code](https://www.ladiesofcode.com/)
 - [Women in Tech](https://www.womenintech.co.uk/)
 - [Tech Ladies](https://www.hiretechladies.com/)
+- [Women TechMakers](https://www.womentechmakers.com/)
+- [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
+
