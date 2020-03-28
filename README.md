@@ -44,6 +44,7 @@
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+- [TensorFlow] (#TensorFlow)
 
 ## Agile
 
@@ -485,9 +486,9 @@
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
 
-## Twilio
 
-- [Twilio Quest](https://www.twilio.com/quest)
+## TensorFlow
+- [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Voice
 
@@ -519,3 +520,4 @@
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
+
