@@ -245,6 +245,11 @@
 - [Reverse Engineering 101](https://securedorg.github.io/RE101/)
 - [Reverse Engineering 102](https://securedorg.github.io/RE102/)
 
+## Ionic
+- [Ionic Tutorials & Courses](https://hackr.io/tutorials/learn-ionic)
+- [Learn Ionic Fast](https://ionicacademy.com/)
+- [Ionic Tutorial](https://www.tutorialspoint.com/ionic/index.htm)
+
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
