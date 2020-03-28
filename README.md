@@ -273,11 +273,11 @@
 - [JavaScript.info](http://javascript.info/)
 - [Object Oriented JavaScript](https://www.thenetninja.co.uk/courses/object-oriented-javascript-tutorial)
 - [Learn X in Y minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
+- [CSX Structured JavaScript Learning Journey - Codesmith](https://csx.codesmith.io/)
 - [Dev.to JavaScript](https://dev.to/t/javascript)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
-
 
 ## Machine Learning
 
