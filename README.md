@@ -340,6 +340,7 @@
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
 - [Laravel framework](https://laravel.com)
+- [Laracasts](https://laracasts.com/)
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 
 ## PLSQL
@@ -439,6 +440,7 @@
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 - [A Cloud Guru](https://acloud.guru/courses)
 - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
+- [DynamoDB Book](https://www.dynamodbbook.com/)
 
 ## Sick Picks
 
