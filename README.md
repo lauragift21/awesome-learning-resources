@@ -280,6 +280,8 @@
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [JavaScript for Cats](http://jsforcats.com/)
 
 ## Machine Learning
 
