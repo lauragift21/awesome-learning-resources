@@ -196,6 +196,7 @@
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
 
 ## Flutter
+- [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/p/intro-to-flutter)
 - [Flutter Course - Full Tutorial for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 - [Flutter: Learning Resources for Beginners](https://dev.to/nitya/flutter-learning-resources-for-beginners-5719)
 - [Flutter Tutorial by The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU)
