@@ -334,6 +334,7 @@
 - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
 - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
 - [Awesome Node.JS (A-Z) Youtube Lecture](https://www.youtube.com/watch?v=rSHL_lYY_Xc&list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR)
+- [Nodejs.dev](https://nodejs.dev)
 
 ## PHP
 
