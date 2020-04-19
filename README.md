@@ -34,6 +34,7 @@
 - [PWA](#pwa)
 - [Python](#python)
 - [ReactJS](#reactjs)
+- [React Native](#react-native)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Serverless](#serverless)
@@ -419,6 +420,14 @@
 - [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
 - [React Enlightenment](https://www.reactenlightenment.com)
 - [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
+
+## React Native
+
+- [InstaMobile Blog](https://www.instamobile.io/blog/)
+- [BootDey React Native Snippets](https://www.bootdey.com/react-native-snippets)
+- [Awesome React Native](https://www.awesome-react-native.com/)
+- [UI Libraries](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
+- [The State Of React Native](https://www.youtube.com/watch?v=plTTFqbEiEE)
 
 ## Ruby
 
