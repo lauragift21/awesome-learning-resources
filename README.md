@@ -45,7 +45,7 @@
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
-- [TensorFlow] (#TensorFlow)
+- [TensorFlow](#TensorFlow)
 
 ## Agile
 
