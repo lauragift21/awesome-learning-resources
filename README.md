@@ -106,6 +106,7 @@
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
 - [Tutorials Point](https://www.tutorialspoint.com/csharp)
 - [Zetcode](http://zetcode.com/lang/csharp/)
+- [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
 
 ## CSS
 
