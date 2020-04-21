@@ -223,6 +223,7 @@
 ## Golang
 
 - [A Tour of Go](https://tour.golang.org/welcome/1)
+- [Go by Example](https://gobyexample.com/)
 - [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 - [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
@@ -248,8 +249,10 @@
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
-- [Reverse Engineering 101](https://securedorg.github.io/RE101/)
-- [Reverse Engineering 102](https://securedorg.github.io/RE102/)
+- [Beggining with Reverse Engineering](https://beginners.re/)
+- [CTF field guide](https://trailofbits.github.io/ctf/)
+- [Metasploit unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+- [Infosec Institute](https://resources.infosecinstitute.com/)
 
 ## Ionic
 - [Ionic Tutorials & Courses](https://hackr.io/tutorials/learn-ionic)
@@ -300,6 +303,8 @@
 
 - [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033)
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=pd_sbs_14_t_0/136-7474712-7650215?_encoding=UTF8&pd_rd_i=1593272901&pd_rd_r=f8f8d7e2-f2b5-4ac7-91ce-e0355affe59a&pd_rd_w=a0873&pd_rd_wg=u2f3a&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=6Q3PYAT9CC9304D9BFY4&psc=1&refRID=6Q3PYAT9CC9304D9BFY4)
+- [Exploit writing Tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+- [Shell code database](http://shell-storm.org/shellcode/)
 
 ## Markdown
 
