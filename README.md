@@ -182,6 +182,7 @@
 - [Zell's Blog](https://zellwk.com/blog)
 - [Dan Abramov Blog](https://overreacted.io/)
 - [Web Development Reading List](https://wdrl.info)
+- [Developer Roadmap](https://roadmap.sh)
 
 ## Developer Stories
 
