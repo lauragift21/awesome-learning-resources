@@ -191,6 +191,16 @@
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 - [How to relocate to Germany: IT Specialists sharing their experience](https://zerotoonesearch.com/relocation-to-germany-success-stories/)
 
+## Developer Twitter Handles
+- [Rasmus Lerdorf](@rasmus) (https://twitter.com/rasmus)
+- [Ryan Stewart](@ryanstewart) (https://twitter.com/ryanstewart)
+- [Thomas Fuchs](@thomasfuchs) (https://twitter.com/thomasfuchs)
+- [Elijah Manor](@elijahmanor) (https://twitter.com/elijahmanor)
+- [John Resig](@jeresig) (https://twitter.com/jeresig)
+- [Jeff Atwood](@codinghorror) (https://twitter.com/codinghorror)
+- [Joel Spolsky](@spolsky) (https://twitter.com/spolsky)
+- [Molly Holzschlag](@mollydotcom) (https://twitter.com/mollydotcom)
+
 ## Django
 
 - [Django Girls](https://tutorial.djangogirls.org/)
