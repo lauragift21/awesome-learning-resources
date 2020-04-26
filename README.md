@@ -55,6 +55,7 @@
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
 
 ## Android
+
 - [What is Android](https://www.android.com/what-is-android/)
 - [Android 10](https://www.android.com/android-10/)
 - [Android Open Source Project](https://source.android.com/)
@@ -100,7 +101,7 @@
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 - [Tabler](https://preview.tabler.io)
 
-## C#
+## C
 
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
@@ -134,7 +135,6 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Diner](https://flukeout.github.io/)
 
-
 ## Computer Vision
 
 - [Udacity Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
@@ -151,6 +151,7 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
 - [Alison](https://alison.com/courses/data-science)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com)
+
 ## Deep Learning
 
 - [Deep Learning Specialization (instructor : Andrew Ng) on Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -199,6 +200,7 @@
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
 
 ## Flutter
+
 - [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/p/intro-to-flutter)
 - [Flutter Course - Full Tutorial for Beginners](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 - [Flutter: Learning Resources for Beginners](https://dev.to/nitya/flutter-learning-resources-for-beginners-5719)
@@ -207,6 +209,7 @@
 - [Example Flutter UI](https://fluttersourcecode.com/)
 
 ## Flask
+
 - [Flask Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 - [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
 - [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
@@ -243,6 +246,7 @@
 - [GraphQL with React Tutorial](https://www.thenetninja.co.uk/courses/graphql-node-react-tutorial)
 
 ## Hugo
+
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## InfoSec
@@ -256,6 +260,7 @@
 - [Infosec Institute](https://resources.infosecinstitute.com/)
 
 ## Ionic
+
 - [Ionic Tutorials & Courses](https://hackr.io/tutorials/learn-ionic)
 - [Learn Ionic Fast](https://ionicacademy.com/)
 - [Ionic Tutorial](https://www.tutorialspoint.com/ionic/index.htm)
@@ -390,7 +395,6 @@
 - [Hanselminutes](https://www.hanselminutes.com/)- Fresh Tech Talk from Fresh Faces
 - [This Week In Tech](https://twit.tv/shows/this-week-in-tech)
 
-
 ## PWA
 
 - [The Complete Guide to Progressive Web Apps](https://flaviocopes.com/what-is-a-progressive-web-app/)
@@ -411,7 +415,6 @@
 - [Python for Fun](http://www.openbookproject.net/py4fun/)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Learn Python 3 By Code Academy](https://www.codecademy.com/learn/learn-python-3)
-
 
 ## ReactJS
 
@@ -492,8 +495,12 @@
 - [Refactoring, write awesome code](https://sourcemaking.com/refactoring)
 - [Remove Background from Images](https://www.remove.bg/)
 - [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
+- [CanIUse](https://caniuse.com/)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 ## Svelte
+
 - [Svelte and Sapper in Action (Book)](https://www.manning.com/books/svelte-and-sapper-in-action)
 - [The Svelte Handbook (Book)](https://flaviocopes.com/page/ebooks/)
 - [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
@@ -511,8 +518,8 @@
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
 
-
 ## TensorFlow
+
 - [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Voice
@@ -545,4 +552,3 @@
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
-
