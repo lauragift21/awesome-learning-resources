@@ -473,7 +473,6 @@
 ## Sick Picks
 
 - [100 Tips to Becoming a better Developer](https://blog.thefirehoseproject.com/posts/100-essential-lessons-for-those-who-want-to-learn-to-code-in-2017/)
-- [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
 - [Super Cool Illustrations](https://undraw.co/illustrations)
 - [A coder's guide to APIs](https://www.creativebloq.com/features/a-coders-guide-to-apis)
 - [Why Coding Style Matters](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
