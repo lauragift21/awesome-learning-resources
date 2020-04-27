@@ -101,7 +101,7 @@
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 - [Tabler](https://preview.tabler.io)
 
-## C#
+## C
 
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
@@ -498,6 +498,9 @@
 - [Refactoring, write awesome code](https://sourcemaking.com/refactoring)
 - [Remove Background from Images](https://www.remove.bg/)
 - [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
+- [CanIUse](https://caniuse.com/)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 ## Svelte
 
