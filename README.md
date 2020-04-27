@@ -101,7 +101,7 @@
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 - [Tabler](https://preview.tabler.io)
 
-## C
+## C#
 
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
