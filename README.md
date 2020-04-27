@@ -394,6 +394,9 @@
 - [Shop talk show](https://shoptalkshow.com)
 - [Hanselminutes](https://www.hanselminutes.com/)- Fresh Tech Talk from Fresh Faces
 - [This Week In Tech](https://twit.tv/shows/this-week-in-tech)
+- [JS Party](https://changelog.com/jsparty)
+- [My Life As A Software Engineer](https://anchor.fm/mylifeasasoftwareengineer/)
+- [The Cynical Developer](https://cynicaldeveloper.com/)
 
 ## PWA
 
