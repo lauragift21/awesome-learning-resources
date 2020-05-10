@@ -469,6 +469,7 @@
 - [A Cloud Guru](https://acloud.guru/courses)
 - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
 - [DynamoDB Book](https://www.dynamodbbook.com/)
+- [The Serverless Handbook](https://serverlesshandbook.dev/)
 
 ## Sick Picks
 
@@ -519,6 +520,7 @@
 - [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
+- [Typescript Exercises](https://github.com/mdevils/typescript-exercises)
 
 ## TensorFlow
 
