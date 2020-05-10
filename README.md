@@ -268,6 +268,7 @@
 ## JavaScript
 
 - [FreeCodeCamp](https://freecodecamp.com)
+- [The Odin Project](https://www.theodinproject.com/)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
 - [CodeSchool](https://www.codeschool.com/learn/javascript)
@@ -294,6 +295,7 @@
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript for Cats](http://jsforcats.com/)
+- [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
 
 ## Machine Learning
 
@@ -422,6 +424,8 @@
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
+- [Learn React](https://scrimba.com/course/glearnreact)
+- [The React BootCamp](https://scrimba.com/course/greact)
 - [Fullstack Advanced React and GraphQL by Wes Bos](https://advancedreact.com/)
 - [Alligator.IO React Page](https://alligator.io/react/)
 - [Egghead.io](https://egghead.io/browse/frameworks/react)
