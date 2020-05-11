@@ -40,6 +40,7 @@
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [Typescript](#typescript)
 - [Twilio](#twilio)
 - [Voice](#voice)
@@ -509,6 +510,13 @@
 - [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno)
 - [Simplify Web App Development with Svelte](https://www.youtube.com/watch?v=PXOE7oZyaBA)
+
+## Swift
+
+- [iOS and Swift for Beginners](https://www.raywenderlich.com/ios/paths/learn)
+- [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+- [How to learn Swift programming for free in 2020](https://www.hackingwithswift.com/articles/2/how-to-learn-swift-programming-for-free)
 
 ## Typescript
 
