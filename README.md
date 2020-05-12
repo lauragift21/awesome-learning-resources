@@ -36,6 +36,7 @@
 - [ReactJS](#reactjs)
 - [React Native](#react-native)
 - [Ruby](#ruby)
+- [Ruby on Rails](#ruby-on-rails)
 - [Rust](#rust)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
@@ -460,6 +461,15 @@
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
 - [App Academy Open](https://open.appacademy.io/)
+
+## Ruby on Rails 
+
+- [Official Rails Website](https://rubyonrails.org/)
+- [David Heinemeier Hansson](https://www.youtube.com/channel/UCUkM9uMpWatT7gVWShgtKFw)
+- [GoRails](https://gorails.com/)
+- [Rails Screen Casts](https://railscasts.com/)
+- [Agile Web Development with Rails 5](https://books.google.co.za/books/about/Agile_Web_Development_with_Rails_5.html?id=ySyjDAEACAAJ&source=kp_book_description&redir_esc=y)
+- [Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.goodreads.com/book/show/13705557-ruby-on-rails-tutorial)
 
 ## Rust
 
