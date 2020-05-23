@@ -190,8 +190,6 @@
 - [Dan Abramov Blog](https://overreacted.io/)
 - [Web Development Reading List](https://wdrl.info)
 - [Developer Roadmap](https://roadmap.sh)
-- [CodeWall](https://codewall.co.uk/)
-
 
 ## Developer Stories
 
