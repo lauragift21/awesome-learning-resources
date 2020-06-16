@@ -29,6 +29,7 @@
 - [Hugo](#hugo)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
 - [NodeJS](#nodejs)
@@ -303,6 +304,15 @@
 - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript for Cats](http://jsforcats.com/)
 - [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
+
+## Kotlin
+
+- [Kotlin Coding Puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+- [Kotlin by Reddit](https://www.reddit.com/r/Kotlin/)
+- [Kotlin Academy](https://blog.kotlin-academy.com/)
+- [Kotlin by Hackr.io](https://hackr.io/tutorials/learn-kotlin)
+- [Kotlin for Android](http://antonioleiva.com/kotlin/)
+- [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
 
 ## Machine Learning
 
