@@ -141,6 +141,7 @@
 - [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Diner](https://flukeout.github.io/)
+- [Pure CSS Loaders](https://loading.io/css/)
 
 ## Computer Vision
 
