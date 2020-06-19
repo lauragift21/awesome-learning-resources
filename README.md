@@ -60,6 +60,7 @@
 - [Martin Fowler's website](https://martinfowler.com/)
 - [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
+- [Agile user stories](https://zepel.io/agile/user-stories/)
 
 ## Android
 
