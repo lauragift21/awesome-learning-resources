@@ -21,6 +21,7 @@
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
+- [Elixir](#elixir)
 - [Flask](#flask)
 - [Flutter](#flutter)
 - [Git and GitHub](#git-and-github)
@@ -208,6 +209,14 @@
 - [Official Django Tutorials](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
+
+## Elixir
+
+- [Elixir School](https://elixirschool.com/)
+- [Learn Elixir in Y minutes](https://learnxinyminutes.com/docs/elixir)
+- [Mocks and Explicit Contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+- [Elixir Forum](https://elixirforum.com/)
+- [Joy of Elixir](https://joyofelixir.com/toc.html)
 
 ## Flutter
 
