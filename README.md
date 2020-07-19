@@ -1,4 +1,4 @@
-# Awesome Resources RoadMap 
+# Awesome Learning Resources 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
@@ -17,6 +17,7 @@
 - [APEX](#apex)
 - [Bootstrap](#bootstrap)
 - [C#](#c)
+- [Career](#career)
 - [CSS](#css)
 - [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
@@ -120,6 +121,9 @@
 - [Tutorials Point](https://www.tutorialspoint.com/csharp)
 - [Zetcode](http://zetcode.com/lang/csharp/)
 - [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
+
+## Career
+- [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
 
 ## CSS
 
