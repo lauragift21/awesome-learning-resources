@@ -2,10 +2,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-“**Awesome Resources RoadMap is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial**”
-
-<a href="https://tracking.gitads.io/?repo=awesome-learning-resources"><img src="https://images.gitads.io/awesome-learning-resources" alt="GitAds"/></a>
-
 [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
 
