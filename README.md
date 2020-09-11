@@ -248,12 +248,14 @@
 
 ## Golang
 
+- [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Go by Example](https://gobyexample.com/)
-- [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 - [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
 - [Golang Tutorials](https://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
+- [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
+- [In-depth and Illustrated Go Tutorials](https://blog.learngoprogramming.com)
 
 ## GraphQL
 
