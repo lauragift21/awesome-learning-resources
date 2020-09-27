@@ -46,6 +46,7 @@
 - [Rust](#rust)
 - [Serverless](#serverless)
 - [Sick Picks](#sick-picks)
+- [Startups](#startups)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [Typescript](#typescript)
@@ -548,6 +549,12 @@
 - [CanIUse](https://caniuse.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+
+## Startups
+
+- [Stripe Atlas](https://stripe.com/atlas/guides)
+- [YCombinator Startup school](https://www.startupschool.org/?utm_source=yc&utm_campaign=ycdc_header)
+- [Stanford CS183F Lectures with YCombinator](https://youtu.be/5ZXU84_sGXo?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY)
 
 ## Svelte
 
