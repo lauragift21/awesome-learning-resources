@@ -28,6 +28,7 @@
 - [Golang](#golang)
 - [GraphQL](#graphql)
 - [Hugo](#hugo)
+- [Hacking](#hacking)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -273,6 +274,10 @@
 ## Hugo
 
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
+
+## Hacking
+
+- [Awesome Hacking](https://github.com/NetanMangal/Awesome-Hacking)
 
 ## InfoSec
 
