@@ -486,6 +486,7 @@
 - [React Enlightenment](https://www.reactenlightenment.com)
 - [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 - [Develop Live Project on React & Spring Boot with Payment Integration & BarCode Scanner](https://www.manning.com/liveproject/online-booking-systems-for-a-salon-and-day-spa-using-spring-boot-and-reactjs?a_aid=muthuishere&a_bid=4f5b6535)
+- [Epic React by Kent C Dodds](https://epicreact.dev/)
 
 ## React Native
 
