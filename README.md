@@ -50,12 +50,12 @@
 - [Startups](#startups)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Typescript](#typescript)
+- [TensorFlow](#tensorflow)
 - [Twilio](#twilio)
+- [Typescript](#typescript)
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
-- [TensorFlow](#TensorFlow)
 
 ## Agile
 
@@ -112,7 +112,7 @@
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 - [Tabler](https://preview.tabler.io)
 
-## C
+## C#
 
 - [Channel9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
@@ -582,6 +582,13 @@
 - [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 - [How to learn Swift programming for free in 2020](https://www.hackingwithswift.com/articles/2/how-to-learn-swift-programming-for-free)
 
+## TensorFlow
+
+- [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+## Twilio
+- [Twilio Official Tutorial](https://www.twilio.com/docs/tutorials)
+
 ## Typescript
 
 - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
@@ -592,10 +599,6 @@
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
 - [Typescript Exercises](https://github.com/mdevils/typescript-exercises)
-
-## TensorFlow
-
-- [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Voice
 
