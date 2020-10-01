@@ -248,6 +248,10 @@
 - [Get to know Git by scotch.io (Premium content)](https://scotch.io/courses/get-to-know-git)
 - [Git and GitHub for beginners (Traversy Media)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Git and GitHub commands (a list)](https://github.com/joshnh/Git-Commands)
+- [Pro Git](https://git-scm.com/book/en/v2)
+- [Git In The Trenches](https://cbx33.github.io/gitt/intro.html)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Git Hooks](https://githooks.com/)
 
 ## Golang
 
