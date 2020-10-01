@@ -461,6 +461,7 @@
 - [Python for Fun](http://www.openbookproject.net/py4fun/)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Learn Python 3 By Code Academy](https://www.codecademy.com/learn/learn-python-3)
+- [ Python tutorials for beginners ](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 
 ## ReactJS
 
