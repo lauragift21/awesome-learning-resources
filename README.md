@@ -231,7 +231,7 @@
 - [Flutter Tutorial by The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU)
 - [Example Flutter theme](https://startflutter.com/)
 - [Example Flutter UI](https://fluttersourcecode.com/)
-- [The Complete Free Flutter Course](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured)
+- [The Complete Free Flutter Course by Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/featured)
 
 ## Flask
 
