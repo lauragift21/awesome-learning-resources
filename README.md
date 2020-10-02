@@ -623,6 +623,8 @@
 - [Vue Mastery - Multiple Free Classes](https://www.vuemastery.com/)
 - [Laravel Cast - Learn Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
 - [Vue Cheatsheet](https://marozed.ma/vue-cheatsheet/)
+- [Vue School](https://vueschool.io/)
+- [Vue Curated](https://curated.vuejs.org/)
 
 ## Women in Tech
 
