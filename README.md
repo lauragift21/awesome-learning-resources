@@ -166,6 +166,9 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
 - [Alison](https://alison.com/courses/data-science)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com)
+- [Sololearn](https://www.sololearn.com/Course/data-science/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
+
 
 ## Deep Learning
 
