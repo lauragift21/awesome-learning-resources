@@ -11,6 +11,7 @@
 - [Android](#android)
 - [Angular](#angular)
 - [APEX](#apex)
+- [BASH](#bash)
 - [Bootstrap](#bootstrap)
 - [C#](#c)
 - [Career](#career)
@@ -101,6 +102,14 @@
 - [Talk APEX](https://www.talkapex.com/)
 - [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
 - [Oracle APEX Website](https://apex.oracle.com/)
+
+## BASH
+
+- [Bash Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+- [Bash Programming](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [Shell Scripting MIT](https://missing.csail.mit.edu/2020/shell-tools/)
+- [Shell Scripting Project-Based](https://www.udemy.com/course/linux-shell-scripting-projects/)
+- [Practice Bash](https://www.hackerrank.com/domains/shell)
 
 ## BOOTSTRAP
 
