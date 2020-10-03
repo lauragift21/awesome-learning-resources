@@ -275,6 +275,7 @@
 - [Golang Tutorials](https://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
 - [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [In-depth and Illustrated Go Tutorials](https://blog.learngoprogramming.com)
+- [Basic Middleware in Go](https://medium.com/@budimanokky93/basic-middleware-in-golang-9536faa41874)
 
 ## GraphQL
 
