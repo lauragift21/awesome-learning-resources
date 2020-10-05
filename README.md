@@ -344,6 +344,7 @@
 - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript for Cats](http://jsforcats.com/)
 - [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ## Kotlin
 
