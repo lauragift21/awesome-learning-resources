@@ -57,6 +57,7 @@
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+- [XML](#xml)
 
 ## Agile
 
@@ -649,3 +650,6 @@
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
+
+## XML
+- [W3](https://www.w3.org/XML)
