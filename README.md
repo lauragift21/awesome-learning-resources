@@ -364,6 +364,7 @@
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)
+- [Machine learning mastery](https://machinelearningmastery.com/blog/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Malware Analysis
