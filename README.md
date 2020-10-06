@@ -483,7 +483,10 @@
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Learn Python 3 By Code Academy](https://www.codecademy.com/learn/learn-python-3)
 - [ Python tutorials for beginners ](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
-
+- [ Python OOP](https://www.programiz.com/python-programming/object-oriented-programming)
+- [Full-Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+- [Python Tutorials](https://realpython.com/)
+- [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
