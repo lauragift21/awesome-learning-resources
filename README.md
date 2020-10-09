@@ -33,6 +33,7 @@
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [Laravel](#laravel)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
 - [NodeJS](#nodejs)
@@ -346,6 +347,7 @@
 - [JavaScript for Cats](http://jsforcats.com/)
 - [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ## Kotlin
 
@@ -357,6 +359,9 @@
 - [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
 - [Kotlin bootcamp](https://developer.android.com/courses/kotlin-bootcamp/overview#lesson_1_get_started)
 
+## Laravel
+
+[list-of-21-artisan-make-commands-with-parameters](https://quickadminpanel.com/blog/list-of-21-artisan-make-commands-with-parameters/)
 
 ## Machine Learning
 
@@ -641,6 +646,7 @@
 - [Vue Cheatsheet](https://marozed.ma/vue-cheatsheet/)
 - [Vue School](https://vueschool.io/)
 - [Vue Curated](https://curated.vuejs.org/)
+- [Vue Screencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
 
 ## Women in Tech
 
