@@ -205,6 +205,7 @@
 - [Harry Cresswell](https://harrycresswell.com/articles/)
 - [Mark Dotto Blog](https://markdotto.com)
 - [Martin Fowler](https://martinfowler.com/)
+- [Monica Powell](https://www.aboutmonica.com/)
 - [Raymond Camden](https://raymondcamden.com)
 - [Shay Howe](https://learn.shayhowe.com/)
 - [Tania Rascia](https://www.taniarascia.com/)
