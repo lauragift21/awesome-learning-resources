@@ -349,6 +349,7 @@
 - [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Beginner's Series to JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 ## Kotlin
 
@@ -421,6 +422,8 @@
 - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
 - [Awesome Node.JS (A-Z) Youtube Lecture](https://www.youtube.com/watch?v=rSHL_lYY_Xc&list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR)
 - [Nodejs.dev](https://nodejs.dev)
+- [Beginner's Series to Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
+- [Build JavaScript applications with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?wt.mc_id=nodebeginner-ch9-cxa)
 
 ## PHP
 
