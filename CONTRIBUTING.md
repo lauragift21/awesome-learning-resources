@@ -1,5 +1,5 @@
 
-# Contribute to Awesome Learning Resources
+# Contribute to Awesome Learning Resources.
 
 Thank you for your interest in contributing to Awesome Learning Resources, contributions are **welcome** and will be fully **credited**
 This guide helps make contributing to Awesome Learning Resources simple and efficient for everyone.
@@ -15,4 +15,4 @@ I created this repository because I wanted to keep track of all the awesome reso
 3. Individual resources do not have to be in alphabetical order.
 4. When creating a new topic, please make sure to add it to the Table of Contents
 
-**Happy Exploring!!** :fire:
+**Happy Exploring!!!** :fire:
