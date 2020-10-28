@@ -217,6 +217,9 @@
 - [Developer Roadmap](https://roadmap.sh)
 - [CodeWall](https://codewall.co.uk)
 - [Joshua Comeau](https://joshwcomeau.com/)
+- [Sara Soueidan](https://sarasoueidan.com/)
+- [Robin Weiruch](https://robinwieruch.de/)
+- [Wes Bos](https://wesbos.com/)
 
 ## Developer Stories
 
