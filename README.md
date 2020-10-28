@@ -216,6 +216,7 @@
 - [Web Development Reading List](https://wdrl.info)
 - [Developer Roadmap](https://roadmap.sh)
 - [CodeWall](https://codewall.co.uk)
+- [Joshua Comeau](https://joshwcomeau.com/)
 
 ## Developer Stories
 
