@@ -356,6 +356,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Beginner's Series to JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 - [learn-js](https://www.learn-js.org/)
+- [JavaScript Online](https://learnjavascript.online/)
 
 ## Kotlin
 
