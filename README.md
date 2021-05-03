@@ -78,6 +78,7 @@
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Whats New? AndroidX](https://developer.android.com/jetpack/androidx)
 - [Migrate to AndroidX](https://developer.android.com/jetpack/androidx/migrate)
+- [Learn Android](https://www.tutlane.com/tutorial/android)
 
 ## Angular
 
@@ -122,6 +123,7 @@
 - [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series)
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 - [Tabler](https://preview.tabler.io)
+- [Bootstrap Tutorial - Tutlane](https://www.tutlane.com/tutorial/bootstrap)
 
 ## C#
 
@@ -131,6 +133,7 @@
 - [Zetcode](http://zetcode.com/lang/csharp/)
 - [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
 - [W3Schools](https://www.w3schools.com/cs/default.asp)
+- [Tutlane](https://www.tutlane.com/tutorial/csharp)
 
 ## Career
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
@@ -503,6 +506,7 @@
 - [Full-Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 - [Python Tutorials](https://realpython.com/)
 - [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
+- [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
@@ -620,6 +624,7 @@
 - [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 - [How to learn Swift programming for free in 2020](https://www.hackingwithswift.com/articles/2/how-to-learn-swift-programming-for-free)
+- [Learn Swift - Tutlane](https://www.tutlane.com/tutorial/swift)
 
 ## TensorFlow
 
