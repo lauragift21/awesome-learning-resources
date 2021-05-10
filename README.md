@@ -1,4 +1,4 @@
-# Awesome Learning Resources 
+# Awesome Learning Resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
@@ -92,6 +92,7 @@
 - [AngularJS to Angular2+ Migration Guide](https://angular.io/guide/upgrade)
 - [Angular in Depth](https://indepth.dev/angular/)
 - [NGRX](https://ngrx.io/)
+- [DevProjects - Free Real-World Angular Projects](https://www.codementor.io/projects/angular)
 
 ## APEX
 
@@ -360,6 +361,7 @@
 - [Beginner's Series to JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 - [learn-js](https://www.learn-js.org/)
 - [JavaScript Online](https://learnjavascript.online/)
+- [DevProjects - Free Real-World JavaScript Projects](https://www.codementor.io/projects/javascript)
 
 ## Kotlin
 
@@ -370,6 +372,7 @@
 - [Kotlin for Android](http://antonioleiva.com/kotlin/)
 - [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
 - [Kotlin bootcamp](https://developer.android.com/courses/kotlin-bootcamp/overview#lesson_1_get_started)
+- [DevProjects - Free Real-World Mobile Apps Projects](https://www.codementor.io/projects/mobile)
 
 ## Laravel
 
@@ -434,6 +437,7 @@
 - [Nodejs.dev](https://nodejs.dev)
 - [Beginner's Series to Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?wt.mc_id=nodebeginner-ch9-cxa)
+- [DevProjects - Free Real-World Node.js Projects](https://www.codementor.io/projects/nodejs)
 
 ## PHP
 
@@ -444,6 +448,7 @@
 - [Laravel framework](https://laravel.com)
 - [Laracasts](https://laracasts.com/)
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
+- [DevProjects - Free Real-World PHP Projects](https://www.codementor.io/projects/php)
 
 ## PLSQL
 
@@ -507,6 +512,8 @@
 - [Python Tutorials](https://realpython.com/)
 - [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
 - [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
+- [DevProjects - Free Real-World Python Projects](https://www.codementor.io/projects/python)
+
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
@@ -540,6 +547,7 @@
 - [Awesome React Native](https://www.awesome-react-native.com/)
 - [UI Libraries](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
 - [The State Of React Native](https://www.youtube.com/watch?v=plTTFqbEiEE)
+- [DevProjects - Free Real-World React Native Projects](https://www.codementor.io/projects/react-native)
 
 ## Ruby
 
@@ -547,8 +555,9 @@
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start)
 - [App Academy Open](https://open.appacademy.io/)
+- [DevProjects - Free Real-World Ruby Projects](https://www.codementor.io/projects/ruby)
 
-## Ruby on Rails 
+## Ruby on Rails
 
 - [Official Rails Website](https://rubyonrails.org/)
 - [David Heinemeier Hansson](https://www.youtube.com/channel/UCUkM9uMpWatT7gVWShgtKFw)
@@ -625,6 +634,7 @@
 - [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 - [How to learn Swift programming for free in 2020](https://www.hackingwithswift.com/articles/2/how-to-learn-swift-programming-for-free)
 - [Learn Swift - Tutlane](https://www.tutlane.com/tutorial/swift)
+- [DevProjects - Free Read-World Swift Projects](https://www.codementor.io/projects/swift)
 
 ## TensorFlow
 
@@ -666,6 +676,7 @@
 - [Vue School](https://vueschool.io/)
 - [Vue Curated](https://curated.vuejs.org/)
 - [Vue Screencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
+- [DevProjects - Free Real-World Vue Projects](https://www.codementor.io/projects/vue)
 
 ## Women in Tech
 
