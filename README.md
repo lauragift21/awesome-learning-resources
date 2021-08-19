@@ -263,6 +263,7 @@
 - [Flask Tutorial](https://www.tutorialspoint.com/flask/index.htm)
 - [Python Flask Tutorials](https://coreyms.com/development/python/python-flask-tutorials-full-series)
 - [The Flask Mega Tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Data Structures For Python Developers with Flask](https://www.youtube.com/watch?v=74NW-84BqbA)
 
 ## Git and GitHub
 
