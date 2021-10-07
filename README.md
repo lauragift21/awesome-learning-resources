@@ -282,6 +282,7 @@
 
 - [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
+- [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/)
 - [Go by Example](https://gobyexample.com/)
 - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 - [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
