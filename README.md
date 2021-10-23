@@ -165,6 +165,7 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Diner](https://flukeout.github.io/)
 - [Pure CSS Loaders](https://loading.io/css/)
+- [CSSBattle](https://cssbattle.dev/)
 
 ## Computer Vision
 
