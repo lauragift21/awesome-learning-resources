@@ -369,6 +369,7 @@
 - [learn-js](https://www.learn-js.org/)
 - [JavaScript Online](https://learnjavascript.online/)
 - [DevProjects - Free Real-World JavaScript Projects](https://www.codementor.io/projects/javascript)
+- [FullStack Open](https://fullstackopen.com/en/)
 
 ## Kotlin
 
