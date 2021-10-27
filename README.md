@@ -4,7 +4,6 @@
 
 [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
-
 ## Table of Contents
 
 - [Agile](#agile)
@@ -125,6 +124,7 @@
 - [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 - [Tabler](https://preview.tabler.io)
 - [Bootstrap Tutorial - Tutlane](https://www.tutlane.com/tutorial/bootstrap)
+- [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)
 
 ## C#
 
@@ -137,6 +137,7 @@
 - [Tutlane](https://www.tutlane.com/tutorial/csharp)
 
 ## Career
+
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
 
 ## CSS
@@ -187,7 +188,6 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
 - [Applied Ai](https://www.appliedaicourse.com/?gclid=Cj0KCQjwwY-LBhD6ARIsACvT72M2c1Yo3CFYoPpIEP4_omxJRbT4MzHk3vqcUw93xcy6asjPfGWn2R0aAq3NEALw_wcB)
 - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-
 
 ## Deep Learning
 
@@ -370,6 +370,7 @@
 - [JavaScript Online](https://learnjavascript.online/)
 - [DevProjects - Free Real-World JavaScript Projects](https://www.codementor.io/projects/javascript)
 - [FullStack Open](https://fullstackopen.com/en/)
+- [JavaScript Tutorial](https://www.javascripttutorial.net/)
 
 ## Kotlin
 
@@ -521,6 +522,8 @@
 - [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
 - [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
 - [DevProjects - Free Real-World Python Projects](https://www.codementor.io/projects/python)
+- [ItsMyCode - Learn Python Programming](https://itsmycode.com/category/python/)
+
 
 ## ReactJS
 
@@ -649,6 +652,7 @@
 - [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Twilio
+
 - [Twilio Official Tutorial](https://www.twilio.com/docs/tutorials)
 
 ## Typescript
@@ -699,4 +703,5 @@
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
 
 ## XML
+
 - [W3](https://www.w3.org/XML)
