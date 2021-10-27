@@ -4,7 +4,6 @@
 
 [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
-
 ## Table of Contents
 
 - [Agile](#agile)
@@ -137,6 +136,7 @@
 - [Tutlane](https://www.tutlane.com/tutorial/csharp)
 
 ## Career
+
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
 
 ## CSS
@@ -187,7 +187,6 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
 - [Applied Ai](https://www.appliedaicourse.com/?gclid=Cj0KCQjwwY-LBhD6ARIsACvT72M2c1Yo3CFYoPpIEP4_omxJRbT4MzHk3vqcUw93xcy6asjPfGWn2R0aAq3NEALw_wcB)
 - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-
 
 ## Deep Learning
 
@@ -369,6 +368,7 @@
 - [learn-js](https://www.learn-js.org/)
 - [JavaScript Online](https://learnjavascript.online/)
 - [DevProjects - Free Real-World JavaScript Projects](https://www.codementor.io/projects/javascript)
+- [JavaScript Tutorial](https://www.javascripttutorial.net/)
 
 ## Kotlin
 
@@ -650,6 +650,7 @@
 - [Introduction for TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Twilio
+
 - [Twilio Official Tutorial](https://www.twilio.com/docs/tutorials)
 
 ## Typescript
@@ -700,4 +701,5 @@
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
 
 ## XML
+
 - [W3](https://www.w3.org/XML)
