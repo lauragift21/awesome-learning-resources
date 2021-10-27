@@ -520,6 +520,8 @@
 - [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
 - [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
 - [DevProjects - Free Real-World Python Projects](https://www.codementor.io/projects/python)
+- [ItsMyCode - Learn Python Programming](https://itsmycode.com/category/python/)
+
 
 ## ReactJS
 
