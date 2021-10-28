@@ -397,6 +397,7 @@
 - [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)
 - [Machine learning mastery](https://machinelearningmastery.com/blog/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [MACHINE LEARNING - Teori, Studi Kasus dan Implementasi Menggunakan Python](https://ibnu.daqiqil.id/buku-machine-learning/)
 
 ## Malware Analysis
 
