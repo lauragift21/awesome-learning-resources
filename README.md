@@ -371,6 +371,10 @@
 - [DevProjects - Free Real-World JavaScript Projects](https://www.codementor.io/projects/javascript)
 - [FullStack Open](https://fullstackopen.com/en/)
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
+- [Scaler Topics - JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
+
+## Java
+- [Scaler Topics](https://www.scaler.com/topics/java/)
 
 ## Kotlin
 
@@ -524,6 +528,7 @@
 - [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
 - [DevProjects - Free Real-World Python Projects](https://www.codementor.io/projects/python)
 - [ItsMyCode - Learn Python Programming](https://itsmycode.com/category/python/)
+- [Scaler Topics - Python Tutorials](https://www.scaler.com/topics/python/)
 
 
 ## ReactJS
