@@ -372,6 +372,8 @@
 - [FullStack Open](https://fullstackopen.com/en/)
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Scaler Topics - JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
+- [ItsJavaScript](https://itsjavascript.com/)
+
 
 ## Java
 - [Scaler Topics](https://www.scaler.com/topics/java/)
