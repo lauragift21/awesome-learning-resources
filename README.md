@@ -57,6 +57,7 @@
 - [Typescript](#typescript)
 - [Voice](#voice)
 - [Vue](#vue)
+- [Web3](#web3)
 - [Women in Tech](#women-in-tech)
 - [XML](#xml)
 
@@ -137,6 +138,11 @@
 
 ## Career
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
+- [Get hired as a developer: Tips from a Technical Recruiter](https://www.codementor.io/events/get-hired-as-a-dev-dmh9aev1ot)
+- [Getting into tech without a Computer Science degree](https://www.codementor.io/events/getting-into-tech-without-a-cs-degree-d45ydw38wj)
+- [Tech interviews: Best practices from an Engineering Manager](https://www.codementor.io/events/tech-interviews-best-practices-dnhakja0ah)
+- [What does an Engineering Manager do and is it for you?](https://www.codementor.io/events/what-does-an-engineering-manager-do-dmqtocqjyo)
+- [Women In Tech: Establish and grow your developer career](https://www.codementor.io/events/tips-on-being-a-woman-in-tech-dgudztpumg)
 
 ## CSS
 
@@ -275,6 +281,7 @@
 - [Git In The Trenches](https://cbx33.github.io/gitt/intro.html)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Git Hooks](https://githooks.com/)
+- [Using GitHub to Power Up Your Static Sites](https://www.codementor.io/events/using-github-to-power-up-your-static-sites-ebe2u4ukrm)
 
 ## Golang
 
@@ -434,6 +441,7 @@
 - [Nodejs.dev](https://nodejs.dev)
 - [Beginner's Series to Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?wt.mc_id=nodebeginner-ch9-cxa)
+- [Node.js VM: Developing an External Plugin System Within Your Web App](https://www.codementor.io/events/nodejs-vm-developing-an-external-plugin-system-ebdv54d4lt)
 
 ## PHP
 
@@ -480,6 +488,7 @@
 - [JS Party](https://changelog.com/jsparty)
 - [My Life As A Software Engineer](https://anchor.fm/mylifeasasoftwareengineer/)
 - [The Cynical Developer](https://cynicaldeveloper.com/)
+- [Codementor Events](https://www.codementor.io/events)
 
 ## PWA
 
@@ -488,6 +497,7 @@
 - [Progressive Web Application Codelab](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
 - [PWA (Progressive Web App) Tutorial](https://www.thenetninja.co.uk/courses/progressive-web-app-tutorial)
+- [Getting started with Progressive Web Apps](https://www.codementor.io/events/getting-started-with-pwas-dnh7vox6gf)
 
 ## Python
 
@@ -507,6 +517,7 @@
 - [Python Tutorials](https://realpython.com/)
 - [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
 - [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
+
 ## ReactJS
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
@@ -643,6 +654,7 @@
 - [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
 - [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest)
 - [Typescript Exercises](https://github.com/mdevils/typescript-exercises)
+- [React with TypeScript - Build a React component together](https://www.codementor.io/events/react-with-typescript-ddzznxuno4)
 
 ## Voice
 
@@ -666,6 +678,11 @@
 - [Vue School](https://vueschool.io/)
 - [Vue Curated](https://curated.vuejs.org/)
 - [Vue Screencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
+- [Component Testing with Vite, Vue, and Cypress](https://www.codementor.io/events/component-testing-with-vite-vue-and-cypress-ebdt6vb0y3)
+
+## Web3
+- [How to get started in Web3: Blockchain, Crypto, and NFT’s](https://www.codementor.io/events/how-to-get-started-as-a-web3-developer-ebdvvj0plf)
+- [How to Get Started as a Web3 Developer](https://www.codementor.io/events/how-to-get-started-as-a-web3-developer-ebdvvj0plf)
 
 ## Women in Tech
 
@@ -678,6 +695,7 @@
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
+- [Women In Tech: Establish and grow your developer career](https://www.codementor.io/events/tips-on-being-a-woman-in-tech-dgudztpumg)
 
 ## XML
 - [W3](https://www.w3.org/XML)
