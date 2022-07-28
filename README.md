@@ -66,6 +66,7 @@
 - [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
 - [Agile user stories](https://zepel.io/agile/user-stories/)
+- [The Agile Idea](https://www.manning.com/books/the-agile-idea)
 
 ## Android
 
@@ -135,6 +136,7 @@
 - [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
 - [W3Schools](https://www.w3schools.com/cs/default.asp)
 - [Tutlane](https://www.tutlane.com/tutorial/csharp)
+- [Tiny C# Projects](https://www.manning.com/books/tiny-c-sharp-projects)
 
 ## Career
 
