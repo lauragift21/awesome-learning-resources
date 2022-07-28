@@ -136,6 +136,7 @@
 - [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
 - [W3Schools](https://www.w3schools.com/cs/default.asp)
 - [Tutlane](https://www.tutlane.com/tutorial/csharp)
+- [Tiny C# Projects](https://www.manning.com/books/tiny-c-sharp-projects)
 
 ## Career
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
