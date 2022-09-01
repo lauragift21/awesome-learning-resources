@@ -167,6 +167,7 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Diner](https://flukeout.github.io/)
 - [Pure CSS Loaders](https://loading.io/css/)
+- [Tiny CSS Projects](https://www.manning.com/books/tiny-css-projects) - Book
 
 ## Computer Vision
 
