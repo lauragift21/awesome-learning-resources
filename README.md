@@ -599,6 +599,7 @@
 ## Serverless
 
 - [Serverless](https://serverless.com/)
+- [Awesome Serverless Papers](https://github.com/penghuima/awesome-serverless-papers)
 - [The Power of Serverless](https://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 - [A Cloud Guru](https://acloud.guru/courses)
