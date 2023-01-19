@@ -471,6 +471,7 @@
 - [Laracasts](https://laracasts.com/)
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 - [DevProjects - Free Real-World PHP Projects](https://www.codementor.io/projects/php)
+- [Laravel Interview Questions](https://www.interviewbit.com/laravel-interview-questions/)
 
 ## PLSQL
 
