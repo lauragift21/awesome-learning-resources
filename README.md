@@ -600,6 +600,7 @@
 ## Serverless
 
 - [Serverless](https://serverless.com/)
+- [genezio](https://genez.io/?utm_source=awesome-serverless-github&utm_medium=website&utm_campaign=awesome-serverless)
 - [Awesome Serverless Papers](https://github.com/penghuima/awesome-serverless-papers)
 - [The Power of Serverless](https://thepowerofserverless.info/resources.html)
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
