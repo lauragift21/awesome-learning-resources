@@ -219,6 +219,7 @@
 - [Jake Archibald](https://jakearchibald.com/)
 - [Harry Cresswell](https://harrycresswell.com/articles/)
 - [Mark Dotto Blog](https://markdotto.com)
+- [Marko Denic](https://markodenic.com)
 - [Martin Fowler](https://martinfowler.com/)
 - [Monica Powell](https://www.aboutmonica.com/)
 - [Raymond Camden](https://raymondcamden.com)
