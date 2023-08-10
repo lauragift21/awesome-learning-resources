@@ -241,6 +241,7 @@
 - [Official Django Tutorials](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
+- [Django in Action](https://www.manning.com/books/django-in-action)
 
 ## Elixir
 
