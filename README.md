@@ -146,6 +146,7 @@
 ## Career
 
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
+- [Lead Developer Career Guide](https://www.manning.com/books/lead-developer-career-guide)
 
 ## CSS
 
