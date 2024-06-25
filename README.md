@@ -195,6 +195,8 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
 - [Applied Ai](https://www.appliedaicourse.com/?gclid=Cj0KCQjwwY-LBhD6ARIsACvT72M2c1Yo3CFYoPpIEP4_omxJRbT4MzHk3vqcUw93xcy6asjPfGWn2R0aAq3NEALw_wcB)
 - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/)
+
 
 ## Deep Learning
 
