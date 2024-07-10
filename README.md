@@ -410,8 +410,10 @@
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)
 - [Machine learning mastery](https://machinelearningmastery.com/blog/)
+- [Skills for Machine Learning](https://www.scaler.com/blog/skills-for-machine-learning/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [MACHINE LEARNING - Teori, Studi Kasus dan Implementasi Menggunakan Python](https://ibnu.daqiqil.id/buku-machine-learning/)
+- [Machine Learning Roadmap](https://www.scaler.com/blog/machine-learning-roadmap/)
 
 ## Malware Analysis
 
