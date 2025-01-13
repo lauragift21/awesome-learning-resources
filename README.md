@@ -22,6 +22,7 @@
   - [Deep Learning](#deep-learning)
   - [Developer Blog](#developer-blog)
   - [Developer Stories](#developer-stories)
+  - [DevOps](#devops)
   - [Django](#django)
   - [Elixir](#elixir)
   - [Flutter](#flutter)
@@ -37,6 +38,7 @@
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [Laravel](#laravel)
+  - [Linux](#linux)
   - [Machine Learning](#machine-learning)
   - [Malware Analysis](#malware-analysis)
   - [Markdown](#markdown)
@@ -244,6 +246,10 @@
 - [Becoming an intermediate developer, keeping up with the Wars](https://hackernoon.com/becoming-intermediate-developer-keeping-up-with-the-wars-87bb518b40da)
 - [How to relocate to Germany: IT Specialists sharing their experience](https://zerotoonesearch.com/relocation-to-germany-success-stories/)
 
+## DevOps
+
+- [DevOps Skill Tree](https://labex.io/skilltrees/devops)
+
 ## Django
 
 - [Django Girls](https://tutorial.djangogirls.org/)
@@ -400,6 +406,11 @@
 ## Laravel
 
 [list-of-21-artisan-make-commands-with-parameters](https://quickadminpanel.com/blog/list-of-21-artisan-make-commands-with-parameters/)
+
+## Linux
+
+- [Linux Skill Tree](https://labex.io/skilltrees/linux)
+- [Linux Commands Cheat Sheet](https://linux-commands.labex.io/)
 
 ## Machine Learning
 
