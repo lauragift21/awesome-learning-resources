@@ -148,6 +148,7 @@
 ## Career
 
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
+- [15 Highest Paying IT Jobs](https://www.scaler.com/blog/highest-paying-it-jobs/)
 
 ## CSS
 
