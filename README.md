@@ -240,6 +240,7 @@
 - [Sara Soueidan](https://sarasoueidan.com/)
 - [Robin Weiruch](https://robinwieruch.de/)
 - [Wes Bos](https://wesbos.com/)
+- [Scaler Blogs](https://www.scaler.com/blog/java-full-stack-developer-roadmap/)
 
 ## Developer Stories
 
@@ -425,6 +426,7 @@
 - [Machine learning mastery](https://machinelearningmastery.com/blog/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [MACHINE LEARNING - Teori, Studi Kasus dan Implementasi Menggunakan Python](https://ibnu.daqiqil.id/buku-machine-learning/)
+- [Machine Learning Steps: A Comprehensive Guide](https://www.appliedaicourse.com/blog/machine-learning-steps/)
 
 ## Malware Analysis
 
