@@ -390,6 +390,7 @@
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Scaler Topics - JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 - [Learn Javascript The Hard Way](https://learnjsthehardway.com/)
+- [Learn JavaScript with Real Examples](https://flatcoding.com/tutorials/javascript/)
 
 ## Java
 - [Scaler Topics](https://www.scaler.com/topics/java/)
@@ -487,6 +488,7 @@
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 - [DevProjects - Free Real-World PHP Projects](https://www.codementor.io/projects/php)
 - [Laravel Interview Questions](https://www.interviewbit.com/laravel-interview-questions/)
+- [PHP Tutorials](https://flatcoding.com/tutorials/php/)
 
 ## PLSQL
 
