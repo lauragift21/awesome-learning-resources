@@ -736,3 +736,7 @@
 ## XML
 
 - [W3](https://www.w3.org/XML)
+
+## Spanish Resources
+
+* [meskeIA](https://meskeia.com) - Collection of 86 free educational web applications in Spanish: mathematics, physics, chemistry, languages, finance, health, and productivity tools.
