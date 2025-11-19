@@ -390,6 +390,7 @@
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Scaler Topics - JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 - [Learn Javascript The Hard Way](https://learnjsthehardway.com/)
+- [Javascript in Depth](https://www.manning.com/books/javascript-in-depth)
 
 ## Java
 - [Scaler Topics](https://www.scaler.com/topics/java/)
