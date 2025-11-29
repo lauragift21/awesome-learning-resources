@@ -149,6 +149,7 @@
 
 - [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
 - [15 Highest Paying IT Jobs](https://www.scaler.com/blog/highest-paying-it-jobs/)
+- [System Designer](https://systemdesigner.net) - Free AI-powered system design learning platform with interactive lessons, custom learning plans, and collaborative whiteboards. Chat with AI to explore 200+ topics, practice, and build projects. Covers fundamentals, GenAI, ML systems, and 67+ technologies.
 
 ## CSS
 
@@ -425,6 +426,7 @@
 - [Machine learning mastery](https://machinelearningmastery.com/blog/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [MACHINE LEARNING - Teori, Studi Kasus dan Implementasi Menggunakan Python](https://ibnu.daqiqil.id/buku-machine-learning/)
+- [System Designer](https://systemdesigner.net) - Free AI-powered system design learning platform with interactive lessons, custom learning plans, and collaborative whiteboards. Chat with AI to explore 200+ topics, practice, and build projects. Covers fundamentals, GenAI, ML systems, and 67+ technologies.
 
 ## Malware Analysis
 
