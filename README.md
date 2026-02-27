@@ -653,6 +653,7 @@
 - [CanIUse](https://caniuse.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+- [Computer Science Resources](https://computerscienceresources.com)
 
 ## Startups
 
