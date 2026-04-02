@@ -8,6 +8,7 @@
 
 - [Awesome Learning Resources](#awesome-learning-resources)
   - [Table of Contents](#table-of-contents)
+  - [API Tools](#api-tools)
   - [Agile](#agile)
   - [Android](#android)
   - [Angular](#angular)
@@ -622,6 +623,10 @@
 - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
 - [DynamoDB Book](https://www.dynamodbbook.com/)
 - [The Serverless Handbook](https://serverlesshandbook.dev/)
+
+## API Tools
+
+- [ToolPipe](https://toolpipe.dev) - Free developer utility API with 55+ endpoints for QR codes, JSON formatting, text analysis, hash generation, DNS lookup, regex testing, Base64 encoding, UUID generation, and more.
 
 ## Sick Picks
 
