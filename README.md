@@ -300,6 +300,7 @@
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Git Hooks](https://githooks.com/)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=lauragift21_awesome-learning-resources) - Follow experienced devs on GitHub and see what repos they find worth starring. Great for learning.
 ## Golang
 
 - [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo)
