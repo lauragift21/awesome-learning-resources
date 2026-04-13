@@ -355,7 +355,7 @@
 - [The Odin Project](https://www.theodinproject.com/)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
-- [CodeSchool](https://www.codeschool.com/learn/javascript)
+- [JS Exercises](https://jsexercises.com)
 - [Egghead](https://egghead.io)
 - [Ally.io](https://allyjs.io/)
 - [How to code in JavaScript Digital Ocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
