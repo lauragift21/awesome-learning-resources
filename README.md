@@ -353,6 +353,7 @@
 
 - [FreeCodeCamp](https://freecodecamp.com)
 - [The Odin Project](https://www.theodinproject.com/)
+- [The Odin Project vs Full Stack Open (detailed comparison)](https://freecodingcourses.com/compare/the-odin-project/full-stack-open)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
 - [CodeSchool](https://www.codeschool.com/learn/javascript)
