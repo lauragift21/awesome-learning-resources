@@ -251,6 +251,7 @@
 ## DevOps
 
 - [DevOps Skill Tree](https://labex.io/skilltrees/devops)
+- [TheCodeForge](https://thecodeforge.io/) - 1,700+ free tutorials covering DevOps, system design, Python, Java, and more with real-world incident stories and structured learning paths.
 
 ## Django
 
