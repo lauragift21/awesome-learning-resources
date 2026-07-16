@@ -55,6 +55,7 @@
   - [Rust](#rust)
   - [Serverless](#serverless)
   - [Sick Picks](#sick-picks)
+  - [Software Engineering](#software-engineering)
   - [Startups](#startups)
   - [Svelte](#svelte)
   - [Swift](#swift)
@@ -653,6 +654,10 @@
 - [CanIUse](https://caniuse.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+
+## Software Engineering
+
+- [Software Engineering — The Easy Way](https://github.com/thetpmguy/software-engineering-the-easy-way) - A free, beginner-friendly course explaining how software really works, in plain English with no prerequisites.
 
 ## Startups
 
