@@ -390,6 +390,7 @@
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Scaler Topics - JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 - [Learn Javascript The Hard Way](https://learnjsthehardway.com/)
+- [Deoit](https://deoit.js.org) - Free browser-based code editor with 81+ lessons for HTML, CSS & JavaScript.
 
 ## Java
 - [Scaler Topics](https://www.scaler.com/topics/java/)
