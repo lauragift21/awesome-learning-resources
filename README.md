@@ -251,6 +251,7 @@
 ## DevOps
 
 - [DevOps Skill Tree](https://labex.io/skilltrees/devops)
+- [Production Readiness Checklist](https://github.com/MarinJursic/production-readiness-checklist)
 
 ## Django
 
