@@ -291,6 +291,7 @@
 - [The official github guides](https://guides.github.com/)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [GitHub Training](https://www.youtube.com/user/GitHubGuides)
+- [Gittyper] (https://github.com/harbs20/gittyper)
 - [Git and GitHub by freecodecamp.org](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Get to know Git by scotch.io (Premium content)](https://scotch.io/courses/get-to-know-git)
 - [Git and GitHub for beginners (Traversy Media)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
