@@ -653,6 +653,7 @@
 - [CanIUse](https://caniuse.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+- [Nutilz](https://nutilz.com) - Free browser-based developer utilities: regex tester, JSON formatter, converters, and calculators
 
 ## Startups
 
