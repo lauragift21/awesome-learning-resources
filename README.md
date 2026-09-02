@@ -298,6 +298,7 @@
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Git In The Trenches](https://cbx33.github.io/gitt/intro.html)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [WebTerm Learn: Git Introduction (hands-on, in the browser)](https://learn.webterm.app/en/courses/git-introduction)
 - [Git Hooks](https://githooks.com/)
 
 ## Golang
@@ -413,6 +414,7 @@
 
 - [Linux Skill Tree](https://labex.io/skilltrees/linux)
 - [Linux Commands Cheat Sheet](https://linux-commands.labex.io/)
+- [WebTerm Learn: Terminal courses (hands-on, in the browser)](https://learn.webterm.app/en/courses/terminal-introduction)
 
 ## Machine Learning
 
