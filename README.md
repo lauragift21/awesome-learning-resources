@@ -688,6 +688,7 @@
 
 ## Typescript
 
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Free and open-source TypeScript book covering fundamentals through advanced concepts, with 10,300+ stars on GitHub.
 - [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book)
 - [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki)
 - [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages)
