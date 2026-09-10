@@ -251,6 +251,7 @@
 ## DevOps
 
 - [DevOps Skill Tree](https://labex.io/skilltrees/devops)
+- [Wyrcan Engineering Roadmap](https://github.com/Wyrcan-io/roadmap) - Text-first 12-stage engineering curriculum covering Linux, Docker, AWS, Terraform, CI/CD, Kubernetes, and Observability.
 
 ## Django
 
