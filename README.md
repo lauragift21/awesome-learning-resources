@@ -177,6 +177,7 @@
 - [CSS Diner](https://flukeout.github.io/)
 - [Pure CSS Loaders](https://loading.io/css/)
 - [CSSBattle](https://cssbattle.dev/)
+- - [HTML5ANDCSS3 - CSS Tutorial](https://html5andcss3.org/tutorials/css/)
 
 ## Computer Vision
 
@@ -390,6 +391,7 @@
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Scaler Topics - JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 - [Learn Javascript The Hard Way](https://learnjsthehardway.com/)
+- [HTML5ANDCSS3 - JavaScript Tutorial](https://html5andcss3.org/tutorials/javascript/)
 
 ## Java
 - [Scaler Topics](https://www.scaler.com/topics/java/)
