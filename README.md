@@ -599,6 +599,7 @@
 
 ## Ruby on Rails
 
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [Official Rails Website](https://rubyonrails.org/)
 - [David Heinemeier Hansson](https://www.youtube.com/channel/UCUkM9uMpWatT7gVWShgtKFw)
 - [GoRails](https://gorails.com/)
