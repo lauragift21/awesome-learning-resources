@@ -342,6 +342,7 @@
 - [CTF field guide](https://trailofbits.github.io/ctf/)
 - [Metasploit unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 - [Infosec Institute](https://resources.infosecinstitute.com/)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Ionic
 
