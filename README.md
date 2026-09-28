@@ -425,6 +425,7 @@
 - [Machine learning mastery](https://machinelearningmastery.com/blog/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [MACHINE LEARNING - Teori, Studi Kasus dan Implementasi Menggunakan Python](https://ibnu.daqiqil.id/buku-machine-learning/)
+- [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-learning-resources)
 
 ## Malware Analysis
 
