@@ -641,6 +641,7 @@
 - [Everything about Static Web Applications](https://www.thenewdynamic.org/articles/)
 - [Array Explorer](https://sdras.github.io/array-explorer/)
 - [Object Explorer](https://sdras.github.io/object-explorer/)
+- [BestJSON JSON Viewer](https://bestjson.com/json-viewer) - Explore nested JSON as a searchable tree with keys, values and paths.
 - [Create VSCode Theme Extension](https://css-tricks.com/creating-a-vs-code-theme/)
 - [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 - [Andela Learning Digest](https://learning-digest.andela.com/)
