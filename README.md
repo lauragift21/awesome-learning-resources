@@ -306,6 +306,7 @@
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/)
 - [Go by Example](https://gobyexample.com/)
+- [The Go Programming Language Documentation](https://go.dev/doc/)
 - [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 - [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
 - [Golang Tutorials](https://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
