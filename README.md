@@ -390,6 +390,7 @@
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Scaler Topics - JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 - [Learn Javascript The Hard Way](https://learnjsthehardway.com/)
+- [Build Accessible Tabs with JavaScript](https://webcheatsheet.com/javascript/accessible-tabs-javascript) - A focused guide to keyboard navigation, focus, and ARIA state.
 
 ## Java
 - [Scaler Topics](https://www.scaler.com/topics/java/)
