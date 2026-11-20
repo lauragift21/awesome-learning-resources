@@ -654,6 +654,8 @@
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
+- [Resource Planet / 资料星球](https://resources.packscena.com/) - Chinese learning and creative resource directory with category/topic browsing, keyword search, collection-outline previews and local browser favorites. Files use Quark links; browsing and claims are currently free, while future collections may be paid. Operator nomination; AI-assisted description.
+
 ## Startups
 
 - [Stripe Atlas](https://stripe.com/atlas/guides)
